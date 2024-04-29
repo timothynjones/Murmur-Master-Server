@@ -15,7 +15,7 @@
         "shortSummary" : "The physiological sounds made by the heart",
         "summary" : "Normal heart sounds are the physiological sounds that the heart makes when it beats. The first heart sound (S1) corresponds to the closure of the atrioventricular valves (mitral and tricuspid) and marks the start of ventricular systole. The second heart sound (S2) corresponds to the closure of the aortic and pulmonary valves and marks the end of ventricular systole. Normal heart sounds do not rule out cardiac disease as many heart diseases can have normal heart sounds.",
         "displayPhysiology" : false,
-        "signs" : ["S1 followed by S2 (2nd heart sound)", "S2 can be split physiologically", "A 3rd heart sound (S3) can occur in healthy individuals, but may also be pathological", "A 4th heart sound (S4) is not normal"],
+        "signs" : ["S1 followed by S2", "S2 can be split physiologically", "A 3rd heart sound (S3) can occur in healthy individuals, but may also be pathological", "A 4th heart sound (S4) is not normal"],
         "murmurs" : [
             {
                 "orderedId" : 0,
