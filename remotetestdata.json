@@ -1,8 +1,8 @@
 [
      {
-        "orderedId": 1,
+        "orderedId": 0,
         "setId": 9861222,
-        "questionNumber": 2,
+        "questionNumber": 1,
         "question": "A 43-year-old gentleman is brought in by ambulance with a resuscitated out-of-hospital cardiac arrest. He is currently intubated and ventilated. The attending paramedics are aware he has a heart problem, but no further details are known. You notice a wire exiting his skin below the xiphisternum, attached to a pack strapped to his leg. You perform a cardiovascular examination (below). Which of the following is most likely to be present?",
         "answers": [
             "A patent ductus arteriosus",
@@ -212,9 +212,9 @@
         "answered": false
     },
     {
-        "orderedId": 0,
+        "orderedId": 1,
         "setId": 4408112,
-        "questionNumber": 1,
+        "questionNumber": 2,
         "question": "A 78-year-old gentleman presents to the Cardiology clinic with increasing shortness of breath and chest pain on exertion. He has a past medical history of hypertension and chronic kidney disease stage 3. You perform a cardiovascular examination (below). Which of the following is the most likely cause of his symptoms?",
         "answers": [
             "Hypertrophic cardiomyopathy",
