@@ -7086,7 +7086,7 @@
                 "setId" : 2010745,
                 "codedId" : "vsd03",
                 "name" : "VSD 3",
-                "description" : "A harsh pansystolic murmur can be heard, loudest at the left lower sternal border, associated with a forceful thrill. It does not radiate. A split S2 can also be appreciated at the left upper sternal border, but unlike an ASD, this is not fixed and varies with respiration.",
+                "description" : "A harsh pansystolic murmur can be heard, loudest at the left lower sternal border, associated with a forceful thrill. It does not radiate. A widely-split S2 can also be appreciated at the left upper sternal border, but unlike an ASD, this is not fixed and varies with respiration.",
                 "murmurHaptics" : true,
                 "sounds" : [
                     {
