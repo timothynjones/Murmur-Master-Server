@@ -1,0 +1,315 @@
+[
+    {
+        "universalSymptomName" : "Dyspnoea",
+        "universalSymptomDescription" : "Dyspnoea refers to the subjective sensation of shortness of breath. It should be differentiated from an increased work of breathing or a rapid rate of breathing (tachypnoea) which are objective signs seen by a healthcare professional, although they often occur together.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Most valve disease", "LV dysfunction (systolic or diastolic) leading to pulmonary oedema", "Structural heart disease e.g. cardiomyopathies, congenital", "Arrhythmias e.g. atrial fibrillation", "Pulmonary hypertension", "Ischaemic heart disease (angina equivalent)", "Pericardial disease (e.g. effusion, constriction)"]
+            },
+            {
+                "categoryName" : "Respiratory",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["Infections e.g. pneumonia, COVID", "Obstructive disease e.g. asthma, COPD, bronchiectasis", "Interstitial disease/fibrosis", "Lung cancer", "Pleural disease e.g. effusion, pneumothorax", "Neuromuscular and skeletal e.g. motor neurone disease", "Obesity hypoventilation and obstructive sleep apnoea"]
+            },
+            {
+                "categoryName" : "Airway",
+                "categoryImage" : "airwaycauseimage",
+                "causes" : ["Laryngeal obstruction e.g. foreign body, laryngeal oedema, laryngospasm", "Vocal cord dysfunction", "Superior vena cava obstruction"]
+            },
+            {
+                "categoryName" : "Haematological",
+                "categoryImage" : "haematologycauseimage",
+                "causes" : ["Pulmonary embolism", "Anaemia"]
+            },
+            {
+                "categoryName" : "Metabolic",
+                "categoryImage" : "metaboliccauseimage",
+                "causes" : ["Metabolic acidosis (Kussmaul's respiration) e.g. in diabetic ketoacidosis", "Sepsis"]
+            },
+            {
+                "categoryName" : "Psychological",
+                "categoryImage" : "neurologycauseimage",
+                "causes" : ["Anxiety/panic attack"]
+            }
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Chest pain",
+        "universalSymptomDescription" : "There are many causes of chest pain. A careful history is required to differentiate the serious from benign causes. A useful mnemonic is SOCRATES = site, onset, character, radiation, associated features, timing, exacerbating and relieving factors, severity. Cardiac chest pain is central and is often described as a tightness, heaviness or pressure. It is usually worse on exertion and commonly radiates to the shoulders, left arm, jaw or teeth. It is associated with nausea/vomiting and diaphoresis. It is relieved by rest or nitrates.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Ischaemic heart disease (acute and chronic coronary syndromes)", "Non-atherosclerotic disease e.g. vasospasm, embolic events, microvascular disease, dissection", "Aortic stenosis", "HCM", "Pericarditis/myocarditis", "Aortic dissection"]
+            },
+            {
+                "categoryName" : "Respiratory",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["Infections e.g. pneumonia", "Pleural e.g. pneumothorax, effusion, pleuritis (Bornholm disease)", "Pulmonary embolism"]
+            },
+            {
+                "categoryName" : "Oesophageal",
+                "categoryImage" : "oesophagealcauseimage",
+                "causes" : ["Gastro-oesophageal reflux disease", "Oesophagitis e.g. fungal, radiation, bisphosphonates", "Oesophageal spasm"]
+            },
+            {
+                "categoryName" : "Musculoskeletal",
+                "categoryImage" : "musculoskeletalcauseimage",
+                "causes" : ["Costochondritis/Tietze syndrome", "Rib fracture", "Muscular strain", "Herpes zoster"]
+            },
+            {
+                "categoryName" : "Abdominal (referred)",
+                "categoryImage" : "intraabdominalcauseimage",
+                "causes" : ["Cholecystitis", "Peptic ulcer", "Pancreatitis", "Sickle cell critis"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Syncope",
+        "universalSymptomDescription" : "Syncope refers to a transient loss of consciousness due to a sudden global reduction of blood supply to the brain. There is typically a rapid recovery. Syncope should be differentiated from other causes of loss of consciousness such as seizures and hypoglycaemia. Syncope may be preceded presyncope (the feeling that one may faint).",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Arrhythmias e.g. ventricular tachycardia or bradycardias", "Obstructive lesions e.g. aortic stenosis, HCM or acute pulmonary embolism", "Structural/ischaemic heart disease", "Subclavian steal syndrome"]
+            },
+            {
+                "categoryName" : "Neurally mediated/reflex",
+                "categoryImage" : "neurologycauseimage",
+                "causes" : ["Vasovagal syncope (simple faint) e.g. physical or emotional stressor, dehydration", "Carotid sinus syncope", "Situation syncope e.g. cough, micturition"]
+            },
+            {
+                "categoryName" : "Orthostatic hypotension",
+                "categoryImage" : "orthostaticsyncopecauseimage",
+                "causes" : ["Autonomic dysfunction e.g. diabetes, Parkinson’s disease", "Hypovolaemia e.g. dehydration, Addison’s disease", "Drugs e.g. antihypertensives, diuretics, beta blockers, antipsychotics"]
+            },
+            {
+                "categoryName" : "Syncope mimics",
+                "categoryImage" : "mimiccauseimage",
+                "causes" : ["Epileptic seizure", "Hypoglycaemia", "Cataplexy"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Presyncope",
+        "universalSymptomDescription" : "Presyncope refers to the sensation of feeling like one is about to faint. It usually consists of light-headedness, sweatiness, blackening of vision and feeling weakness in the arms and legs. It has similar causes to syncope. It should be differentiated from other causes of ‘dizziness’ such as vertigo (the sensation that the environment is spinning/moving).",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Arrhythmias e.g. ventricular tachycardia or bradycardias", "Obstructive lesions e.g. aortic stenosis, HCM or acute pulmonary embolism", "Structural/ischaemic heart disease", "Subclavian steal syndrome"]
+            },
+            {
+                "categoryName" : "Neurally mediated/reflex",
+                "categoryImage" : "neurologycauseimage",
+                "causes" : ["Vasovagal reflex e.g. physical or emotional stressor, dehydration", "Carotid sinus hypersensitivity", "Situational e.g. cough, micturition"]
+            },
+            {
+                "categoryName" : "Orthostatic hypotension",
+                "categoryImage" : "orthostaticsyncopecauseimage",
+                "causes" : ["Autonomic dysfunction e.g. diabetes, Parkinson’s disease", "Hypovolaemia e.g. dehydration, Addison’s disease", "Drugs e.g. antihypertensives, diuretics, beta blockers, antipsychotics"]
+            },
+            {
+                "categoryName" : "Presyncope mimics",
+                "categoryImage" : "mimiccauseimage",
+                "causes" : ["Vertigo (central vs peripheral)", "Panic attack", "Hypoglycaemia", "Anaemia"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Palpitations",
+        "universalSymptomDescription" : "Palpitations are an increased awareness of one’s heartbeat. Patients typically describe feeling their heart ‘fluttering’, ‘racing’, ‘skipping a beat’ or ‘pounding’ in their chest. Patients often experience palpitations in the absence of significant cardiac arrhythmias.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac arrhythmias",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Supraventricular or ventricular ectopics", "Atrial fibrillation", "Atrial flutter/tachycardia", "AVNRT/AVRT", "Ventricular tachycardia", "Heart block and pauses"]
+            },
+            {
+                "categoryName" : "Systemic causes of sinus tachycardia",
+                "categoryImage" : "metaboliccauseimage",
+                "causes" : ["Anaemia", "Exercise", "Fever/infection", "Dehydration", "Hyperthyroidism", "Pregnancy", "Phaeochromocytoma"]
+            },
+            {
+                "categoryName" : "Drug causes of sinus tachycardia",
+                "categoryImage" : "medicationimage",
+                "causes" : ["Nicotine", "Alcohol", "Caffeine", "Cocaine", "Amphetamines", "Withdrawal of rate-slowing medications"]
+            },
+            {
+                "categoryName" : "Psychological",
+                "categoryImage" : "neurologycauseimage",
+                "causes" : ["Anxiety/panic attack"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Pedal oedema",
+        "universalSymptomDescription" : "Pedal oedema refers to swelling of the feet, ankles and legs due to peripheral fluid accumulation in the tissues. Pedal oedema due to cardiac and fluid oncotic pressure abnormalities is bilateral and pitting in nature. Lymphoedema produces both pitting and non-pitting oedema.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Increased central venous pressure",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["RV or biventricular heart failure", "Right-sided valve lesions e.g. tricuspid regurgitation", "Pulmonary hypertension of any cause"]
+            },
+            {
+                "categoryName" : "Decreased plasma oncotic pressure",
+                "categoryImage" : "oncoticpressurecauseimage",
+                "causes" : ["Nephrotic syndrome", "Liver cirrhosis", "Protein losing enteropathy", "Malnutrition"]
+            },
+            {
+                "categoryName" : "Increased plasma volume",
+                "categoryImage" : "plasmavolumecauseimage",
+                "causes" : ["Renal failure", "Pregnancy", "Excess salt intake", "Hypothyroidism", "Primary or secondary hyperaldosteronism"]
+            },
+            {
+                "categoryName" : "Localised",
+                "categoryImage" : "localisedoedemacauseimage",
+                "causes" : ["Venous insufficiency/dependent oedema", "Lymphoedema/lymphatic obstruction", "Deep vein thrombosis (unilateral)", "Trauma/musculoskeletal causes"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Ascites",
+        "universalSymptomDescription" : "Ascites is the accumulation of fluid in the peritoneal cavity. It can result in abdominal distention and abdominal pain. It is a relatively rare presentation of cardiac disease and other causes should be sought in the first instance. Ascites due to cardiac and fluid oncotic pressure abnormalities is transudative. Ascites due to inflammatory processes is exudative.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["RV or biventricular heart failure", "Right-sided valve disease e.g. tricuspid regurgitation", "Constrictive pericarditis", "Pericardial effusion"]
+            },
+            {
+                "categoryName" : "Liver disease",
+                "categoryImage" : "intraabdominalcauseimage",
+                "causes" : ["Liver cirrhosis (multifactorial: portal hypertension, secondary hyperaldosteronism and hypoalbuminaemia)", "Acute liver failure", "Budd Chiari syndrome (hepatic vein occlusion)", "Portal vein thrombosis/occlusion", "Schistosomiasis", "Veno-occlusive disease"]
+            },
+            {
+                "categoryName" : "Decreased plasma oncotic pressure",
+                "categoryImage" : "oncoticpressurecauseimage",
+                "causes" : ["Nephrotic syndrome", "Liver cirrhosis (multifactorial: portal hypertension, secondary hyperaldosteronism and hypoalbuminaemia)", "Protein losing enteropathy", "Malnutrition"]
+            },
+            {
+                "categoryName" : "Exudative",
+                "categoryImage" : "exudativecauseimage",
+                "causes" : ["Peritoneal carcinomatosis", "Ovarian cancer", "Tuberculosis", "Peritonitis", "Pancreatitis"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Failure to thrive",
+        "universalSymptomDescription" : "Failure to thrive is a term used to refer to children who are not gaining sufficient weight or growing in an expected manner. It has many causes, including both organic and, more commonly, non-organic (due to failure of caregivers to provide sufficient caloric intake).",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Cyanotic congenital heart disease", "Non-cyanotic congenital heart disease", "Heart failure of any cause"]
+            },
+            {
+                "categoryName" : "Respiratory",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["Cystic fibrosis", "Severe asthma", "Bronchiectasis", "Respiratory failure", "Adenoid hypertrophy"]
+            },
+            {
+                "categoryName" : "Gastrointestinal",
+                "categoryImage" : "intraabdominalcauseimage",
+                "causes" : ["Malabsorption e.g. coeliac disease", "Food allergies e.g. cow’s milk protein allergy", "Pyloric stenosis", "Biliary atresia", "Pancreatic insufficiency"]
+            },
+            {
+                "categoryName" : "Metabolic and endocrine",
+                "categoryImage" : "metaboliccauseimage",
+                "causes" : ["Inborn errors of metabolism", "Chronic kidney disease", "Thyroid disease", "Diabetes mellitus", "Chronic infections"]
+            },
+            {
+                "categoryName" : "Non-organic",
+                "categoryImage" : "nonorganiccauseimage",
+                "causes" : ["Inadequate food supply", "Inadequate breast feeding", "Child neglect"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Central cyanosis",
+        "universalSymptomDescription" : "Central cyanosis describes a blue-purple discolouration of the lips, face and torso. It is caused by a decrease in arterial oxygen saturation (i.e. an increase in arterial deoxygenated haemoglobin). It is almost always indicative of underlying disease. It should be differentiated from peripheral cyanosis, which describes discolouration of the fingertips and nail beds and is caused by a decrease in venous oxygen saturations in the peripheries due to tissue utilisation. It is most commonly caused by peripheral vasoconstriction (e.g. in cold weather).",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Cardiovascular",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Cyanotic congenital heart disease (e.g. Tetralogy of Fallot)", "Eisenmenger syndrome (shunt reversal)", "Pulmonary oedema", "Extra-cardiac shunts e.g. pulmonary arteriovenous malformation"]
+            },
+            {
+                "categoryName" : "Respiratory",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["Infections e.g. pneumonia/COPD", "Obstructive disease e.g. asthma, COPD, bronchiectasis", "Interstitial disease/fibrosis", "Pulmonary embolism", "Pleural disease", "Neuromuscular disease", "Obesity hypoventilation and obstructive sleep apnoea", "Hypoxic environment e.g. high altitude"]
+            },
+            {
+                "categoryName" : "Mimics",
+                "categoryImage" : "mimiccauseimage",
+                "causes" : ["Methaemoglobinaemia"]
+            }
+
+            
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Sudden death",
+        "universalSymptomDescription" : "Sudden cardiac death (SCD) is death from a cardiac cause that occurs unexpectedly and suddenly. The direct cause is usually a non-perfusing cardiac arrhythmia such as pulseless ventricular tachycardia or ventricular fibrillation. If the patient receives effective resuscitation during their cardiac arrest, sudden cardiac death may be aborted, but significant morbidity may result.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Coronary",
+                "categoryImage" : "coronarycauseimage",
+                "causes" : ["Coronary artery disease/acute coronary syndrome", "Coronary vasospasm", "Spontaneous coronary artery dissection", "Embolic coronary events (e.g. infective endocarditis, LV thrombus, AF", "Anomalous coronary origin"]
+            },
+            {
+                "categoryName" : "Cardiomyopathy/structural",
+                "categoryImage" : "structuralcauseimage",
+                "causes" : ["Hypertrophic cardiomyopathy", "Dilated cardiomyopathy", "Arrhythmogenic cardiomyopathy", "Myocarditis"]
+            },
+            {
+                "categoryName" : "Arrhythmia syndromes",
+                "categoryImage" : "arrhythmiacauseimage",
+                "causes" : ["Long/short QT syndrome", "Brugada syndrome", "Catecholaminergic polymorphic ventricular tachycardia"]
+            },
+            {
+                "categoryName" : "Congenital/valvular",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Aortic stenosis", "Mitral valve prolapse", "Congenital heart disease"]
+            },
+            {
+                "categoryName" : "Mimics (other sudden death causes)",
+                "categoryImage" : "mimiccauseimage",
+                "causes" : ["Pulmonary embolism", "Aortic dissection", "Intracranial events e.g. subarachnoid haemorrhage", "Sudden unexpected death in epilepsy", "Electrolyte abnormality"]
+            }
+
+            
+            ]
+        
+    }
+    
+    
+    
+    
+]
