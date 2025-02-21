@@ -1576,7 +1576,7 @@
                 "severityIndex" : 2
             }
         ],
-        "medicalManagement" : ["Limited medical management", "Cautious diuretics for heart failure", "Stop antihypertensives"],
+        "medicalManagement" : ["Limited medical management", "Cautious diuretics for heart failure", "Review antihypertensives"],
         "percutaneousManagement" : ["Transcatheter aortic valve implantation (TAVI)"],
         "surgicalManagement" : ["Surgical aortic valve replacement"],
         "complications" : ["LVH", "Heart failure", "Infective endocarditis", "Haemolysis", "AV block", "Sudden cardiac death"],
