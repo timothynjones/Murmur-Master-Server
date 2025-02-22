@@ -1275,7 +1275,7 @@
                         "remoteStorage" : false,
                         "amplificationFactor" : 3,
                         "heartRate" : 96,
-                        "phonogramAmplitude" : 0.6,
+                        "phonogramAmplitude" : 0.3,
                         "s2Position" : 0.5,
                         "fileName" : "as04p3"
                     },
