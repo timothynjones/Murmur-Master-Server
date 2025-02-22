@@ -1266,7 +1266,7 @@
                         "setId" : 7050148,
                         "codedId" : "as04p3",
                         "name" : "Aortic Stenosis 4 mitral area",
-                        "lesionName" : "Aortic stenosis",
+                        "lesionName" : "Mitral regurgitation",
                         "positionName" : "Mitral  area",
                         "positionIndex" : 3,
                         "systoleTimes" : [0.183, 0.781, 1.358, 1.936],
