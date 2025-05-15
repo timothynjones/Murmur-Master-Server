@@ -1,7 +1,7 @@
 
 [
     {
-        "orderedId" : 0,
+        "orderedId" : 0,  
         "setId": 7461570,
         "freeTrialAccess" : true,
         "name" : "Normal Heart Sounds",
@@ -759,6 +759,7 @@
         "nonCircularImage" : false,
         "shortSummary" : "Narrowing of the aortic valve orifice",
         "summary" : "Aortic stenosis is the progressive narrowing of the aortic valve orifice, restricting the flow of blood through the valve. The normal valve orifice area is 3-4 cm² and there is usually no significant pressure gradient across the valve.",
+        "videoId" : "sKRbqS-bCI4",
         "causes" : [
             {
                 "name" : "Senile degenerative disease (usually > 65)",
@@ -3067,6 +3068,7 @@
         "nonCircularImage" : false,
         "shortSummary" : "Backflow through the mitral valve in systole",
         "summary" : "Mitral regurgitation (MR) is the reversal of blood flow back through the mitral valve into the left atrium in ventricular systole, due to failure of the mitral valve to remain adequately closed. This results in increased left atrial pressure and increased return to the left ventricle in diastole (increased preload).",
+        "videoId": "mwLrxjSglt0",
         "causes" : [
             {
                 "name" : "Primary MR (structurally abnormal leaflets/apparatus)",
@@ -7973,6 +7975,7 @@
         "nonCircularImage" : true,
         "shortSummary" : "A scratching sound occurring in pericarditis",
         "summary" : "A pericardial friction rub is a grating, scratching sound that occurs in pericarditis due to abnormal friction between the inflamed visceral and parietal pericardium as the heart beats. It is highly specific and relatively sensitive for acute pericarditis (it is thought to occur in up to 85% of cases).",
+        "videoId" : "S0koGHuWe_k",
         "causes" : [
             {
                 "name" : "Acute pericarditis",
