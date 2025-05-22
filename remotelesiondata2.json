@@ -3099,9 +3099,9 @@
                         "soundDuration" : 5.213,
                         "soundSystoleCount" : 6,
                         "remoteStorage" : true,
-                        "amplificationFactor" : 1.5,
+                        "amplificationFactor" : 1,
                         "heartRate" : 69,
-                        "phonogramAmplitude" : 0,
+                        "phonogramAmplitude" : 0.2,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
                         "fileName" : "ms03p4",
@@ -3123,7 +3123,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
-                        "s2Position" : 0.5,
+                        "s2Position" : 0.35,
                         "fileName" : "ms03p4",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p4.mp3"
                     }
