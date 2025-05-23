@@ -3006,7 +3006,7 @@
                 "codedId" : "ms03",
                 "name" : "Mitral Stenosis 3",
                 "description" : "There is a quiet low-pitched rumbling diastolic murmur heard at the cardiac apex. This patient has atrial fibrillation, hence there is no pre-systolic accentuation (increased amplitude just before the following S1) due to loss of atrial systole.",
-                "newUntilDate" : 1747934126,
+                "newUntilDate" : 1750785326,
                 "sounds" : [
                     {
                         "orderedId" : 0,
