@@ -3212,11 +3212,11 @@
         "causes" : [
             {
                 "name" : "Primary MR (structurally abnormal leaflets/apparatus)",
-                "causes" : ["Senile degeneration/calcification (elderly)", "Papillary muscle rupture/dysfunction (e.g. post-myocardial infarction)", "Mitral valve prolapse", "Infective endocarditis", "Rheumatic fever"]
+                "causes" : ["Senile degeneration/calcification (elderly)", "Papillary muscle rupture (e.g. post-myocardial infarction)", "Mitral valve prolapse", "Infective endocarditis", "Rheumatic fever"]
             },
             {
-                "name" : "Secondary MR (dilatation of the mitral valve ring with structurally normal leaflets)",
-                "causes" : ["Functional MR (most common, from any cause of LV or LA dilatation e.g. heart failure, dilated cardiomyopathy", "Marfan syndrome", "Osteogenesis imperfecta"]
+                "name" : "Secondary/functional MR (imbalance of closing/tethering forces with structurally normal leaflets)",
+                "causes" : ["Annulus dilatation (LV or LA dilatation e.g. dilated cardiomyopathy, chronic AF)", "Apparatus dysfunction e.g. ischaemic MR", "Marfan syndrome", "Osteogenesis imperfecta"]
             }
             
         ],
