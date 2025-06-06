@@ -777,21 +777,25 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 6382644,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Aortic stenosis is usually asymptomatic until it becomes severe. It is mostly associated with exertional dyspnoea (due to LV pressure overload) but orthopnoea and paroxysmal nocturnal dyspnoea can occur due to resultant heart failure."
             },
             {
+                "setId" : 1866400,
                 "name" : "Chest pain",
                 "image" : "chestpainimage",
                 "valveSymptomDescription" : "Aortic stenosis is usually asymptomatic until it becomes severe. It can cause cardiac chest pain on exertion due to: 1. increased LV afterload and hence increased oxygen demand, 2. concomitant coronary disease and 3. the Venturi effect - the aortic root pressure just distal to the stenosis (where the coronary arteries originate) is relatively lower, which reduces coronary filling."
             },
             {
+                "setId" : 2969209,
                 "name" : "Presyncope",
                 "image" : "presyncopeimage",
                 "valveSymptomDescription" : "Aortic stenosis can cause exertional presyncope due to the inability to sufficiently increase cardiac output when there is vasodilatation, resulting in a drop in systemic blood pressure."
             },
             {
+                "setId" : 1441814,
                 "name" : "Syncope",
                 "image" : "syncopeimage",
                 "valveSymptomDescription" : "Aortic stenosis can cause exertional syncope due to the inability to sufficiently increase cardiac output when there is vasodilatation, resulting in a drop in systemic blood pressure."
@@ -2040,6 +2044,7 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 9676540,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Aortic regurgitation is usually asymptomatic until it becomes severe. It causes dyspnoea due to increased LV preload and causes both exertional dyspnoea and orthopnoea/paroxysmal nocturnal dyspnoea."
@@ -2714,7 +2719,7 @@
         "image" : "mitralstenosisimagetrial2",
         "nonCircularImage" : false,
         "shortSummary" : "Narrowing of the mitral valve orifice",
-        "lesionNewUntilDate" : 1750785326,
+        "lesionNewUntilDate" : 1749131656,
         "summary" : "Mitral stenosis is the progressive narrowing of the mitral valve orifice, restricting the flow of blood through the valve. The normal valve orifice area is 4-6 cm² and there is usually no significant pressure gradient across the valve.",
         "causes" : [
             {
@@ -2734,16 +2739,19 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 5300815,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Mitral stenosis is usually asymptomatic until it becomes severe. It can cause dyspnoea at rest, on exertion and on lying flat (orthopnoea/paroxysmal nocturnal dyspnoea) due to pulmonary venous congestion."
             },
             {
+                "setId" : 1275838,
                 "name" : "Palpitations",
                 "image" : "palpitationsimage",
                 "valveSymptomDescription" : "Mitral stenosis can cause atrial arrhythmias (especially atrial fibrillation) due to LA dilatation."
             },
             {
+                "setId" : 8583369,
                 "name" : "Pedal oedema",
                 "image" : "ankleswellingimage",
                 "valveSymptomDescription" : "Any untreated, severe left-sided valve lesions and LV impairment can cause pedal oedema due to pulmonary hypertension and resultant RV failure, although isolated left-sided disease does not cause peripheral oedema. Severe mitral stenosis is strongly associated with pulmonary hypertension."
@@ -3007,7 +3015,7 @@
                 "codedId" : "ms03",
                 "name" : "Mitral Stenosis 3",
                 "description" : "There is a quiet low-pitched rumbling diastolic murmur heard at the cardiac apex. It is difficult to hear, but is just audible after a few beats - listen for the absence of silence in diastole. This patient has atrial fibrillation, hence there is no pre-systolic accentuation (increased amplitude just before the following S1) due to loss of atrial systole.",
-                "murmurNewUntilDate" : 1750785326,
+                "murmurNewUntilDate" : 1749218056,
                 "sounds" : [
                     {
                         "orderedId" : 0,
@@ -3204,17 +3212,18 @@
         "causes" : [
             {
                 "name" : "Primary MR (structurally abnormal leaflets/apparatus)",
-                "causes" : ["Senile degeneration/calcification (elderly)", "Papillary muscle rupture/dysfunction (e.g. post-myocardial infarction)", "Mitral valve prolapse", "Infective endocarditis", "Rheumatic fever"]
+                "causes" : ["Senile degeneration/calcification (elderly)", "Papillary muscle rupture (e.g. post-myocardial infarction)", "Mitral valve prolapse", "Infective endocarditis", "Rheumatic fever"]
             },
             {
-                "name" : "Secondary MR (dilatation of the mitral valve ring with structurally normal leaflets)",
-                "causes" : ["Functional MR (most common, from any cause of LV or LA dilatation e.g. heart failure, dilated cardiomyopathy", "Marfan syndrome", "Osteogenesis imperfecta"]
+                "name" : "Secondary/functional MR (imbalance of closing/tethering forces with structurally normal leaflets)",
+                "causes" : ["Annulus dilatation (LV or LA dilatation e.g. dilated cardiomyopathy, chronic AF)", "Apparatus dysfunction e.g. ischaemic MR", "Marfan syndrome", "Osteogenesis imperfecta"]
             }
             
         ],
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 7263167,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Mitral regurgitation is usually asymptomatic until it becomes severe. It can cause dyspnoea at rest, on exertion and on lying flat (orthopnoea/paroxysmal nocturnal dyspnoea) due to increased LV preload and pulmonary venous congestion."
@@ -4033,26 +4042,31 @@
         "displayPhysiology" : false,
         "symptoms" : [
             {
+                "setId" : 3209761,
                 "name" : "Palpitations",
                 "image" : "palpitationsimage",
                 "valveSymptomDescription" : "Mitral valve prolapse can cause palpitations due to 1. an element of associated autonomic dysfunction, 2. atrial arrhythmias and ectopics and 3. more significant arrhythmias such as ventricular tachycardia (thought to be due to papillary muscle fibrosis and mechanical stretch)."
             },
             {
+                "setId" : 4193195,
                 "name" : "Chest pain",
                 "image" : "chestpainimage",
                 "valveSymptomDescription" : "It is not fully understood why mitral valve prolapse can cause chest pain in some patients. The character of the pain is usually not classical cardiac pain."
             },
             {
+                "setId" : 3293677,
                 "name" : "Presyncope",
                 "image" : "presyncopeimage",
                 "valveSymptomDescription" : "Mitral valve prolapse can cause presyncope due to cardiac arrhythmias – ventricular tachycardia can be caused by papillary muscle fibrosis and mechanical stretch. There may also be an element of autonomic dysfunction."
             },
             {
+                "setId" : 1893518,
                 "name" : "Syncope",
                 "image" : "syncopeimage",
                 "valveSymptomDescription" : "Mitral valve prolapse can cause syncope due to cardiac arrhythmias – ventricular tachycardia can be caused by papillary muscle fibrosis and mechanical stretch. There may also be an element of autonomic dysfunction."
             },
             {
+                "setId" : 2726846,
                 "name" : "Sudden death",
                 "image" : "suddendeathimage",
                 "valveSymptomDescription" : "Mitral valve prolapse can cause sudden cardiac death due to cardiac arrhythmias – ventricular tachycardia can be caused by papillary muscle fibrosis and mechanical stretch. There may also be an element of autonomic dysfunction."
@@ -4488,16 +4502,19 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 9953756,
                 "name" : "Pedal oedema",
                 "image" : "ankleswellingimage",
                 "valveSymptomDescription" : "Tricuspid regurgitation causes pedal oedema due to increased central venous pressure due to backflow of blood into the RA and central venous system."
             },
             {
+                "setId" : 2315180,
                 "name" : "Ascites",
                 "image" : "ascitesimage",
                 "valveSymptomDescription" : "Untreated severe right-sided valve lesions including tricuspid regurgitation can cause congestive hepatopathy and post-hepatic portal hypertension, resulting in transudative ascites. Pulsatile hepatomegaly may be palpated on abdominal examination."
             },
             {
+                "setId" : 4566447,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Isolated RV dysfunction and right-sided valve lesions are not as strongly associated with dyspnoea as left-sided heart disease. Dyspnoea may occur in tricuspid regurgitation due to the underlying pulmonary or cardiac pathology (e.g. pulmonary hypertension)."
@@ -4942,21 +4959,25 @@
         "displayPhysiology" : false,
         "symptoms" : [
             {
+                "setId" : 7404727,
                 "name" : "Failure to thrive",
                 "image" : "failuretothriveimage",
                 "valveSymptomDescription" : "Any congenital heart disease, including pulmonary stenosis, can cause failure to thrive due to increased metabolic demand."
             },
             {
+                "setId" : 2763818,
                 "name" : "Central cyanosis",
                 "image" : "cyanosisimage",
                 "valveSymptomDescription" : "Isolated pulmonary stenosis will not cause cyanosis, but it is commonly associated with other congenital anomalies, such as atrial and ventricular septal defects. RV outflow obstruction can cause preferential R-L shunting and hence deoxygenated blood entering the systemic circulation."
             },
             {
+                "setId" : 6143320,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Isolated RV dysfunction and right-sided valve lesions are not as strongly associated with dyspnoea as left-sided heart disease. Severe pulmonary stenosis may cause exertional dyspnoea due to obstruction of blood flow to the lungs."
             },
             {
+                "setId" : 1312925,
                 "name" : "Pedal oedema",
                 "image" : "ankleswellingimage",
                 "valveSymptomDescription" : "Pulmonary stenosis causes pedal oedema due to RV failure and increased central venous pressure."
@@ -5175,21 +5196,25 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 1065756,
                 "name" : "Pedal oedema",
                 "image" : "ankleswellingimage",
                 "valveSymptomDescription" : "Pulmonary regurgitation causes pedal oedema due to RV failure and increased central venous pressure."
             },
             {
+                "setId" : 9460858,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Isolated RV dysfunction and right-sided valve lesions are not as strongly associated with dyspnoea as left-sided heart disease. Significant pulmonary regurgitation may cause dyspnoea due to RV volume overload and hence eventually RV failure and reduced forward flow to the lungs."
             },
             {
+                "setId" : 7409954,
                 "name" : "Palpitations",
                 "image" : "palpitationsimage",
                 "valveSymptomDescription" : "Pulmonary regurgitation is associated with RV dilatation and failure, which can result in ventricular tachycardia."
             },
             {
+                "setId" : 5421863,
                 "name" : "Ascites",
                 "image" : "ascitesimage",
                 "valveSymptomDescription" : "Untreated severe right-sided valve lesions including pulmonary regurgitation can cause congestive hepatopathy and post-hepatic portal hypertension, resulting in transudative ascites."
@@ -7101,21 +7126,25 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 5356300,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Small ASDs are usually asymptomatic (at least in childhood). Large, chronically uncorrected ASDs with significant shunts may cause dyspnoea due to pulmonary vascular remodelling/Eisenmenger syndrome, although this is much rarer than in VSDs."
             },
             {
+                "setId" : 8208509,
                 "name" : "Palpitations",
                 "image" : "palpitationsimage",
                 "valveSymptomDescription" : "Large uncorrected ASDs can present in later childhood or adulthood with a variety of symptoms, including palpitations due to arrhythmias caused by RV dilatation and failure."
             },
             {
+                "setId" : 2450832,
                 "name" : "Pedal oedema",
                 "image" : "ankleswellingimage",
                 "valveSymptomDescription" : "Large uncorrected ASDs can cause pedal oedema due to RV failure and increased central venous pressure."
             },
             {
+                "setId" : 6295351,
                 "name" : "Syncope",
                 "image" : "syncopeimage",
                 "valveSymptomDescription" : "Small ASDs are usually asymptomatic but large ASDs can present in later childhood or adulthood with a variety of symptoms. Syncope is relatively rare but may be caused by arrhythmias from RV dilatation and failure."
@@ -7309,16 +7338,19 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 2693010,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "Small congenital VSDs are usually asymptomatic. Large congenital VSDs or acquired ventricular septal ruptures cause dyspnoea due to L-R shunt and increased return of blood to the LV in diastole (LV volume overload), hence pulmonary venous congestion. Chronically, large uncorrected VSDs cause pulmonary vascular remodelling/Eisenmenger syndrome."
             },
             {
+                "setId" : 4252469,
                 "name" : "Failure to thrive",
                 "image" : "failuretothriveimage",
                 "valveSymptomDescription" : "Any congenital heart disease, including ventricular septal defects, can cause failure to thrive due to increased metabolic demand."
             },
             {
+                "setId" : 1857838,
                 "name" : "Pedal oedema",
                 "image" : "ankleswellingimage",
                 "valveSymptomDescription" : "Large congenital VSDs can cause pulmonary vascular remodelling/Eisenmenger syndrome and hence RV failure and pedal oedema."
@@ -7784,31 +7816,37 @@
         "displayPhysiology" : true,
         "symptoms" : [
             {
+                "setId" : 1853854,
                 "name" : "Dyspnoea",
                 "image" : "dyspnoeaimage",
                 "valveSymptomDescription" : "HCM with outflow obstruction causes exertional dyspnoea due to LV pressure overload."
             },
             {
+                "setId" : 5300108,
                 "name" : "Chest pain",
                 "image" : "chestpainimage",
                 "valveSymptomDescription" : "HCM with outflow obstruction causes exertional chest pain due to LV pressure overload, resulting in increased oxygen demand. Impaired LV relaxation also reduces diastolic coronary filling."
             },
             {
+                "setId" : 2043256,
                 "name" : "Palpitations",
                 "image" : "palpitationsimage",
                 "valveSymptomDescription" : "HCM can cause palpitations due to both atrial arrhythmias (caused by LA dilatation due to diastolic dysfunction) and malignant ventricular arrhythmias (partly caused by myocardial disarray)."
             },
             {
+                "setId" : 4964955,
                 "name" : "Presyncope",
                 "image" : "presyncopeimage",
                 "valveSymptomDescription" : "HCM can cause exertional presyncope due to either outflow tract obstruction or malignant arrhythmias (partly caused by myocardial disarray)."
             },
             {
+                "setId" : 6818704,
                 "name" : "Syncope",
                 "image" : "syncopeimage",
                 "valveSymptomDescription" : "HCM can cause exertional syncope due to either outflow tract obstruction or malignant arrhythmias (partly caused by myocardial disarray)."
             },
             {
+                "setId" : 9702141,
                 "name" : "Sudden death",
                 "image" : "suddendeathimage",
                 "valveSymptomDescription" : "HCM can cause sudden cardiac death due to either outflow tract obstruction or malignant arrhythmias (due to myocardial disarray)."
@@ -8116,6 +8154,7 @@
         ],
         "symptoms" : [
             {
+                "setId" : 2520292,
                 "name" : "Chest pain",
                 "image" : "chestpainimage",
                 "valveSymptomDescription" : "Acute pericarditis is classically associated with sharp central chest pain, worse on deep inspiration and on lying flat or on the left lateral side (which causes the heart to press against the pericardium more forcefully)."
