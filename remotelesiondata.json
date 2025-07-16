@@ -392,6 +392,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "nhs04p0"
                     },
                     {
@@ -410,6 +411,7 @@
                         "heartRate" : 76,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "nhs04p1"
                     },
                     {
@@ -428,6 +430,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "nhs04p2"
                     },
                     {
@@ -446,6 +449,7 @@
                         "heartRate" : 74,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "nhs04p3"
                     },
                     {
@@ -464,6 +468,7 @@
                         "heartRate" : 79,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "nhs04p4and5"
                     },
                     {
@@ -482,6 +487,7 @@
                         "heartRate" : 79,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "nhs04p4and5"
                     }
                 ]
@@ -827,6 +833,7 @@
                         "heartRate" : 99,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.55,
+                        "af" : true,
                         "fileName" : "as01p0"
                     },
                     {
@@ -845,6 +852,7 @@
                         "heartRate" : 111,
                         "phonogramAmplitude" : 0.7,
                         "s2Position" : 0.55,
+                        "af" : true,
                         "fileName" : "as01p1b"
                     },
                     {
@@ -863,6 +871,7 @@
                         "heartRate" : 111,
                         "phonogramAmplitude" : 0.4,
                         "s2Position" : 0.55,
+                        "af" : true,
                         "fileName" : "as01p2"
                     },
                     {
@@ -883,6 +892,7 @@
                         "s2Position" : 0.55,
                         "s4Position" : 0.9,
                         "s4Amplitude" : 1,
+                        "af" : true,
                         "fileName" : "as01p3b"
                     },
                     {
@@ -901,6 +911,7 @@
                         "heartRate" : 108,
                         "phonogramAmplitude" : 0.1,
                         "s2Position" : 0.55,
+                        "af" : true,
                         "fileName" : "as01p4"
                     },
                     {
@@ -920,6 +931,7 @@
                         "phonogramAmplitude" : 0.8,
                         "s2Position" : 0.55,
                         "fileName" : "as01p5",
+                        "af" : true,
                         "remoteURL" : "https://timothynjones.github.io/AudioTrials/as01p5.mp3"
                     }
                 ]
@@ -2431,6 +2443,7 @@
                         "heartRate" : 99,
                         "phonogramAmplitude" : 0.8,
                         "s2Position" : 0.45,
+                        "af" : true,
                         "hapticStartTime" : 0.3,
                         "hapticDuration" : 0.3,
                         "hapticIntensity" : 0.5,
@@ -2453,6 +2466,7 @@
                         "heartRate" : 91,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.45,
+                        "af" : true,
                         "fileName" : "ar04p1"
                     },
                     {
@@ -2471,6 +2485,7 @@
                         "heartRate" : 82,
                         "phonogramAmplitude" : 0.8,
                         "s2Position" : 0.45,
+                        "af" : true,
                         "hapticStartTime" : 0.3,
                         "hapticDuration" : 0.3,
                         "hapticIntensity" : 0.5,
@@ -2493,6 +2508,7 @@
                         "heartRate" : 94,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.45,
+                        "af" : true,
                         "fileName" : "ar04p3"
                     },
                     {
@@ -2511,6 +2527,7 @@
                         "heartRate" : 86,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.45,
+                        "af" : true,
                         "fileName" : "ar04p4"
                     },
                     {
@@ -2529,6 +2546,7 @@
                         "heartRate" : 84,
                         "phonogramAmplitude" : 0.6,
                         "s2Position" : 0.45,
+                        "af" : true,
                         "fileName" : "ar04p5"
                     }
                     
@@ -2909,6 +2927,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms02p0"
                     },
                     {
@@ -2928,6 +2947,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms02p1"
                     },
                     {
@@ -2947,6 +2967,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms02p2"
                     },
                     {
@@ -2966,6 +2987,7 @@
                         "phonogramAmplitude" : 0.6,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms02p3"
                     },
                     {
@@ -2985,6 +3007,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms02p4"
                     },
                     {
@@ -3004,6 +3027,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms02p5"
                     }
                     
@@ -3034,6 +3058,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms03p0",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p0.mp3"
                     },
@@ -3054,6 +3079,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms03p1",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p1.mp3"
                     },
@@ -3074,6 +3100,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms03p2",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p2.mp3"
                     },
@@ -3094,6 +3121,7 @@
                         "phonogramAmplitude" : 0.5,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms03p3",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p3.mp3"
                     },
@@ -3114,6 +3142,7 @@
                         "phonogramAmplitude" : 0.2,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms03p4",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p4.mp3"
                     },
@@ -3134,6 +3163,7 @@
                         "phonogramAmplitude" : 0,
                         "preSystolicAccentuation" : false,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "ms03p4",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/ms03p4.mp3"
                     }
@@ -3255,6 +3285,7 @@
                         "heartRate" : 73,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mr01p0"
                     },
                     {
@@ -3273,6 +3304,7 @@
                         "heartRate" : 71,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mr01p1"
                     },
                     {
@@ -3291,6 +3323,7 @@
                         "heartRate" : 63,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mr01p2"
                     },
                     {
@@ -3309,6 +3342,7 @@
                         "heartRate" : 72,
                         "phonogramAmplitude" : 0.6,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "hapticStartTime" : 0,
                         "hapticDuration" : 0.35,
                         "hapticIntensity" : 0.4,
@@ -3331,6 +3365,7 @@
                         "heartRate" : 64,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mr01p4"
                     },
                     {
@@ -3349,6 +3384,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mr01p5"
                     }
                     
@@ -3613,6 +3649,7 @@
                         "heartRate" : 97,
                         "phonogramAmplitude" : 0.05,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mr04p0"
                     },
                     {
@@ -3631,6 +3668,7 @@
                         "heartRate" : 96,
                         "phonogramAmplitude" : 0.1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mr04p1"
                     },
                     {
@@ -3649,6 +3687,7 @@
                         "heartRate" : 98,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mr04p2"
                     },
                     {
@@ -3667,6 +3706,7 @@
                         "heartRate" : 98,
                         "phonogramAmplitude" : 0.4,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mr04p3"
                     },
                     {
@@ -3685,6 +3725,7 @@
                         "heartRate" : 98,
                         "phonogramAmplitude" : 0.3,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mr04p4"
                     },
                     {
@@ -3703,6 +3744,7 @@
                         "heartRate" : 97,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mr04p5"
                     }
                     
@@ -4342,6 +4384,7 @@
                         "heartRate" : 71,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mvp03p0",
                         "remoteStorage" : false
                     },
@@ -4361,6 +4404,7 @@
                         "phonogramAmplitude" : 0.2,
                         "mvpPosition" : 0.15,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mvp03p1",
                         "remoteStorage" : false
                     },
@@ -4380,6 +4424,7 @@
                         "phonogramAmplitude" : 0.4,
                         "mvpPosition" : 0.15,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mvp03p2",
                         "remoteStorage" : false
                     },
@@ -4399,6 +4444,7 @@
                         "phonogramAmplitude" : 0.5,
                         "mvpPosition" : 0.15,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mvp03p3",
                         "remoteStorage" : false
                     },
@@ -4418,6 +4464,7 @@
                         "phonogramAmplitude" : 0.5,
                         "mvpPosition" : 0.15,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mvp03p4and5",
                         "remoteStorage" : false
                     },
@@ -4436,6 +4483,7 @@
                         "heartRate" : 74,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mvp03p4and5",
                         "remoteStorage" : false
                     }
@@ -4782,6 +4830,7 @@
                         "heartRate" : 64,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.3,
+                        "af" : true,
                         "fileName" : "tr03p0"
                     },
                     {
@@ -4800,6 +4849,7 @@
                         "heartRate" : 63,
                         "phonogramAmplitude" : 0.1,
                         "s2Position" : 0.3,
+                        "af" : true,
                         "fileName" : "tr03p1"
                     },
                     {
@@ -4818,6 +4868,7 @@
                         "heartRate" : 65,
                         "phonogramAmplitude" : 0.4,
                         "s2Position" : 0.3,
+                        "af" : true,
                         "fileName" : "tr03p2"
                     },
                     {
@@ -4836,6 +4887,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 0.1,
                         "s2Position" : 0.3,
+                        "af" : true,
                         "fileName" : "tr03p3"
                     },
                     {
@@ -4854,6 +4906,7 @@
                         "heartRate" : 64,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.3,
+                        "af" : true,
                         "fileName" : "tr03p4and5"
                     },
                     {
@@ -4872,6 +4925,7 @@
                         "heartRate" : 64,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.3,
+                        "af" : true,
                         "fileName" : "tr03p4and5"
                     }
                     
@@ -9390,6 +9444,7 @@
                         "heartRate" : 67,
                         "phonogramAmplitude" : 0.4,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr01p0and1"
                     },
                     {
@@ -9408,6 +9463,7 @@
                         "heartRate" : 67,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr01p0and1"
                     },
                     {
@@ -9426,6 +9482,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr01p2"
                     },
                     {
@@ -9444,6 +9501,7 @@
                         "heartRate" : 84,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr01p3"
                     },
                     {
@@ -9462,6 +9520,7 @@
                         "heartRate" : 67,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr01p4"
                     },
                     {
@@ -9480,6 +9539,7 @@
                         "heartRate" : 65,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr01p5"
                     }
                 ]
@@ -9507,6 +9567,7 @@
                         "heartRate" : 58,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mmvr02p0"
                     },
                     {
@@ -9525,6 +9586,7 @@
                         "heartRate" : 80,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mmvr02p1"
                     },
                     {
@@ -9543,6 +9605,7 @@
                         "heartRate" : 73,
                         "phonogramAmplitude" : 0.2,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mmvr02p2"
                     },
                     {
@@ -9561,6 +9624,7 @@
                         "heartRate" : 92,
                         "phonogramAmplitude" : 0.4,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mmvr02p3"
                     },
                     {
@@ -9579,6 +9643,7 @@
                         "heartRate" : 85,
                         "phonogramAmplitude" : 0.3,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mmvr02p4and5"
                     },
                     {
@@ -9597,6 +9662,7 @@
                         "heartRate" : 85,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.35,
+                        "af" : true,
                         "fileName" : "mmvr02p4and5"
                     }
                 ]
@@ -9624,6 +9690,7 @@
                         "heartRate" : 74,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr03p0and5b"
                     },
                     {
@@ -9642,6 +9709,7 @@
                         "heartRate" : 68,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr03p1"
                     },
                     {
@@ -9660,6 +9728,7 @@
                         "heartRate" : 68,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr03p2"
                     },
                     {
@@ -9678,6 +9747,7 @@
                         "heartRate" : 69,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr03p3"
                     },
                     {
@@ -9696,6 +9766,7 @@
                         "heartRate" : 67,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr03p4"
                     },
                     {
@@ -9714,6 +9785,7 @@
                         "heartRate" : 74,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.4,
+                        "af" : true,
                         "fileName" : "mmvr03p0and5b"
                     }
                 ]
@@ -9783,6 +9855,7 @@
                         "heartRate" : 102,
                         "phonogramAmplitude" : 0.5,
                         "s2Position" : 0.5,
+                        "af" : true,
                         "hapticStartTime" : 0,
                         "hapticDuration" : 0.9,
                         "hapticIntensity" : 0.8,
@@ -9805,6 +9878,7 @@
                         "heartRate" : 100,
                         "phonogramAmplitude" : 0.6,
                         "s2Position" : 0.5,
+                        "af" : true,
                         "hapticStartTime" : 0,
                         "hapticDuration" : 0.9,
                         "hapticIntensity" : 0.8,
@@ -9827,6 +9901,7 @@
                         "heartRate" : 104,
                         "phonogramAmplitude" : 0.8,
                         "s2Position" : 0.5,
+                        "af" : true,
                         "hapticStartTime" : 0,
                         "hapticDuration" : 0.9,
                         "hapticIntensity" : 0.8,
@@ -9849,6 +9924,7 @@
                         "heartRate" : 100,
                         "phonogramAmplitude" : 1,
                         "s2Position" : 0.5,
+                        "af" : true,
                         "hapticStartTime" : 0,
                         "hapticDuration" : 0.9,
                         "hapticIntensity" : 0.8,
@@ -9871,6 +9947,7 @@
                         "heartRate" : 95,
                         "phonogramAmplitude" : 0.7,
                         "s2Position" : 0.5,
+                        "af" : true,
                         "fileName" : "vad01p4and5"
                     },
                     {
@@ -9889,6 +9966,7 @@
                         "heartRate" : 95,
                         "phonogramAmplitude" : 0.3,
                         "s2Position" : 0.5,
+                        "af" : true,
                         "fileName" : "vad01p4and5"
                     }
                 ]
