@@ -7,6 +7,7 @@
         "updateLastTimeStamp" : 1756024407,
         "userCohort" : "all",
         "title" : "A new update",
+        "summary" : "This is the first message in the update page"
         "messagePart1" : "This is the first message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
     }
