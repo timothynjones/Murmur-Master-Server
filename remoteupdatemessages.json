@@ -1,0 +1,14 @@
+
+[
+    {
+        "id" : "8db6b588-f8cf-4089-9567-74397374d7c8",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 1753346007,
+        "updateLastTimeStamp" : 1756024407,
+        "userCohort" : "all",
+        "title" : "A new update",
+        "messagePart1" : "This is the first message in the update page",
+        "messagePart2" : "Over time, there will be more messages/updates added"
+    }
+    
+]
