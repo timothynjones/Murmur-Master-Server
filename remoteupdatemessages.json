@@ -8,7 +8,20 @@
         "userCohort" : "all",
         "title" : "A new update",
         "summary" : "This is the first message in the update page",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/heartanimationimage.png"
         "messagePart1" : "This is the first message in the update page",
+        "messagePart2" : "Over time, there will be more messages/updates added"
+    },
+    {
+        "id" : "fa83e4d9-3bc1-43e7-8b84-6bde35ea0905",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 1753346007,
+        "updateLastTimeStamp" : 1756024407,
+        "userCohort" : "all",
+        "title" : "A new update 2",
+        "summary" : "This is the second message in the update page",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/heartanimationimage.png"
+        "messagePart1" : "This is the second message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
     }
     
