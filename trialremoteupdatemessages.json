@@ -8,6 +8,7 @@
         "userCohort" : "all",
         "title" : "A new update",
         "summary" : "This is the first message in the update page",
+        "subtitle" : "The first update",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/heartanimationimage.png",
         "messagePart1" : "This is the first message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
@@ -20,6 +21,7 @@
         "userCohort" : "all",
         "title" : "A new update 2",
         "summary" : "This is the second message in the update page",
+        "subtitle" : "The second update",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/wireframeheartimage.jpeg",
         "messagePart1" : "This is the second message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
@@ -32,6 +34,7 @@
         "userCohort" : "non-pro",
         "title" : "A promotional update for non-pro users",
         "summary" : "Exclusive discount until August 4th",
+        "subtitle" : "Exclusive discount",
         "messagePart1" : "Incredible discount on Murmur Master services for just £3.99 for the first year",
         "messagePart2" : "Check it out now",
         "action" : "openPaywall"
@@ -45,8 +48,11 @@
         "userCohort" : "all",
         "title" : "What's new in v 3.3.1",
         "summary" : "Incredible new animation available",
-        "image" : "https://timothynjones.github.io/Murmur-Master-Server/wireframeheartimage.jpeg",
-        "messagePart1" : "Murmur Master is proud to announce our new cardiac cycle animation, to help you understand how heart sounds relate to the cardiac cycle."
-    },
+        "subtitle" : "Incredible new animation available",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/heartanimationimage.png",
+        "messagePart1" : "Murmur Master is proud to announce our new cardiac cycle animation, to help you understand how heart sounds relate to the cardiac cycle.",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["7461570", "0"]
+    }
     
 ]
