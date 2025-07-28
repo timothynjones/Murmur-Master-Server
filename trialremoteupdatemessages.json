@@ -23,6 +23,30 @@
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/wireframeheartimage.jpeg",
         "messagePart1" : "This is the second message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
-    }
+    },
+    {
+        "id" : "36d071d2-ec7a-4d13-b393-48bbaf3273a2",
+        "updateType" : "promotion",
+        "updateStartTimeStamp" : 1753346007,
+        "updateLastTimeStamp" : 1756024407,
+        "userCohort" : "non-pro",
+        "title" : "A promotional update for non-pro users",
+        "summary" : "Exclusive discount until August 4th",
+        "messagePart1" : "Incredible discount on Murmur Master services for just £3.99 for the first year",
+        "messagePart2" : "Check it out now",
+        "action" : "openPaywall"
+    },
+    {
+        "id" : "f75a57bf-30cd-415c-a799-e5706f73372b",
+        "updateType" : "appUpdate",
+        "specificSoftwareVersion" : "3.3.1",
+        "updateStartTimeStamp" : 1753346007,
+        "updateLastTimeStamp" : 1756024407,
+        "userCohort" : "all",
+        "title" : "What's new in v 3.3.1",
+        "summary" : "Incredible new animation available",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/wireframeheartimage.jpeg",
+        "messagePart1" : "Murmur Master is proud to announce our new cardiac cycle animation, to help you understand how heart sounds relate to the cardiac cycle."
+    },
     
 ]
