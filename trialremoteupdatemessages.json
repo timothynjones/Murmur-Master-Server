@@ -16,7 +16,7 @@
     {
         "id" : "fa83e4d9-3bc1-43e7-8b84-6bde35ea0905",
         "updateType" : "other",
-        "updateStartTimeStamp" : 175334700,
+        "updateStartTimeStamp" : 1753346008,
         "updateLastTimeStamp" : 1756024407,
         "userCohort" : "all",
         "title" : "A new update 2",
@@ -29,7 +29,7 @@
     {
         "id" : "36d071d2-ec7a-4d13-b393-48bbaf3273a2",
         "updateType" : "promotion",
-        "updateStartTimeStamp" : 1753346800,
+        "updateStartTimeStamp" : 1753346009,
         "updateLastTimeStamp" : 1756024407,
         "userCohort" : "non-pro",
         "title" : "A promotional update for non-pro users",
@@ -43,7 +43,7 @@
         "id" : "f75a57bf-30cd-415c-a799-e5706f73372b",
         "updateType" : "appUpdate",
         "specificSoftwareVersion" : "3.3.1",
-        "updateStartTimeStamp" : 1753346900,
+        "updateStartTimeStamp" : 1753346010,
         "updateLastTimeStamp" : 1756024407,
         "userCohort" : "all",
         "title" : "What's new in v 3.3.1",
@@ -57,7 +57,7 @@
     {
         "id" : "314c4e35-c2b0-4b85-ba55-3dea75b26aa9",
         "updateType" : "feedbackRequest",
-        "updateStartTimeStamp" : 1753346910,
+        "updateStartTimeStamp" : 1753346011,
         "updateLastTimeStamp" : 1756024407,
         "userCohort" : "all",
         "title" : "We really need your help",
