@@ -53,6 +53,19 @@
         "messagePart1" : "Murmur Master is proud to announce our new cardiac cycle animation, to help you understand how heart sounds relate to the cardiac cycle.",
         "action" : "goToLearningMurmurView",
         "pathIds" : ["7461570", "0"]
+    },
+    {
+        "id" : "314c4e35-c2b0-4b85-ba55-3dea75b26aa9",
+        "updateType" : "feedbackRequest",
+        "updateStartTimeStamp" : 1753346007,
+        "updateLastTimeStamp" : 1756024407,
+        "userCohort" : "all",
+        "title" : "We really need your help",
+        "summary" : "Could you help us improve Murmur Master",
+        "subtitle" : "We really need your help",
+        "messagePart1" : "Murmur Master has helped 1000s learning heart sounds but we continually strive to make it better.",
+        "messagePart2" : "We'd really appreciate 5 minutes of your time to review Murmur Master to help us improve",
+        "action" : "gotoAppStoreReviewView"
     }
     
 ]
