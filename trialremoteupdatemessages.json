@@ -78,6 +78,19 @@
         "action" : "gotoAppStoreReviewView"
     },
     {
+        "id" : "5a8d5fdc-3c4b-4256-8fbd-a1a6f5606ef0",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 17537186,
+        "updateLastTimeStamp" : 1756024407,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "A message for those that love Cardiology",
+        "summary" : "We can't wait for what's coming next for Murmur Master",
+        "subtitle" : "Let's be honest",
+        "messagePart1" : "Murmurs are great, but they're not the be-all and end-all. That's why we're expanding our product range to include other aspects of Cardiology"
+    }
+    {
         "id" : "4f9230b8-f604-41dc-b0a9-b59df916f675",
         "updateType" : "promotion",
         "updateStartTimeStamp" : 1753718700,
