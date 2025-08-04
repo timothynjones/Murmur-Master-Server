@@ -10,7 +10,7 @@
         "userCountry" : "all",
         "title" : "A new update",
         "summary" : "This is the first message in the update page",
-        "subtitle" : "The first update",
+        "shortTitle" : "The first update",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/heartanimationimage.png",
         "messagePart1" : "This is the first message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
@@ -25,7 +25,7 @@
         "userCountry" : "all",
         "title" : "A new update 2",
         "summary" : "This is the second message in the update page",
-        "subtitle" : "The second update",
+        "shortTitle" : "The second update",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/wireframeheartimage.jpeg",
         "messagePart1" : "This is the second message in the update page",
         "messagePart2" : "Over time, there will be more messages/updates added"
@@ -40,7 +40,7 @@
         "userCountry" : "all",
         "title" : "A promotional update for non-pro users",
         "summary" : "Exclusive discount until August 4th",
-        "subtitle" : "Exclusive discount",
+        "shortTitle" : "Exclusive discount",
         "messagePart1" : "Incredible discount on Murmur Master services for just £3.99 for the first year",
         "messagePart2" : "Check it out now",
         "action" : "openPaywall"
@@ -56,7 +56,7 @@
         "userCountry" : "all",
         "title" : "What's new in v 3.3.1",
         "summary" : "Incredible new animation available",
-        "subtitle" : "Incredible new animation available",
+        "shortTitle" : "New feature",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/heartanimationimage.png",
         "messagePart1" : "Murmur Master is proud to announce our new cardiac cycle animation, to help you understand how heart sounds relate to the cardiac cycle.",
         "action" : "goToLearningMurmurView",
@@ -72,7 +72,7 @@
         "userCountry" : "all",
         "title" : "We really need your help",
         "summary" : "Could you help us improve Murmur Master",
-        "subtitle" : "We really need your help",
+        "shortTitle" : "Help needed",
         "messagePart1" : "Murmur Master has helped 1000s learning heart sounds but we continually strive to make it better.",
         "messagePart2" : "We'd really appreciate 5 minutes of your time to review Murmur Master to help us improve",
         "action" : "gotoAppStoreReviewView"
@@ -87,7 +87,7 @@
         "userCountry" : "all",
         "title" : "A message for those that love Cardiology",
         "summary" : "We can't wait for what's coming next for Murmur Master",
-        "subtitle" : "Let's be honest",
+        "shortTitle" : "New features",
         "messagePart1" : "Murmurs are great, but they're not the be-all and end-all. That's why we're expanding our product range to include other aspects of Cardiology"
     },
     {
@@ -100,7 +100,7 @@
         "userCountry" : "uk",
         "title" : "Exams coming up?",
         "summary" : "We've got something that might help",
-        "subtitle" : "Exams can be daunting...",
+        "shortTitle" : "Promotion",
         "messagePart1" : "That's why we're offering an exclusive discount on our products, just for UK medical students over the next 1 week. 50% off our regular subscriptions",
         "action" : "openPaywall"
     },
@@ -114,9 +114,24 @@
         "userCountry" : "uk",
         "title" : "50% off, for a limited time only!",
         "summary" : "Incredible discount, just for you, but hurry!",
-        "subtitle" : "50% off Murmur Master Pro",
+        "shortTitle" : "Promotion",
         "messagePart1" : "Incredible discount, just for you, but hurry! Offer ends tomorrow at midnight UTC",
         "action" : "openPaywall"
+    },
+    {
+        "id" : "979c68aa-0181-4db8-be88-80c911e2cd88",
+        "updateType" : "spotlightOn",
+        "updateStartTimeStamp" : 1754438399,
+        "updateLastTimeStamp" : 1756024407,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Spotlight on mitral stenosis",
+        "summary" : "Have you ever heard a mitral stenosis murmur irl?",
+        "shortTitle" : "Mitral stenosis",
+        "messagePart1" : "Mitral stenosis is rare in the developed world but is still an important cause of morbidity and mortality. There are treatment options such as percutaneous balloon dilatation, so early detection is key. How do to rate your skills in detecting the mitral stenosis murmur?",
+        "action" : "goToLesionDetailView",
+        "pathIds" : ["5705135"]
     }
     
 ]
