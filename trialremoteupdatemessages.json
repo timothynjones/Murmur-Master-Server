@@ -103,6 +103,20 @@
         "subtitle" : "Exams can be daunting...",
         "messagePart1" : "That's why we're offering an exclusive discount on our products, just for UK medical students over the next 1 week. 50% off our regular subscriptions",
         "action" : "openPaywall"
+    },
+    {
+        "id" : "08f64a6c-6c69-4049-b326-bb47098e4a2f",
+        "updateType" : "promotion",
+        "updateStartTimeStamp" : 1754438399,
+        "updateLastTimeStamp" : 1756024407,
+        "userPaymentStatus" : "nonPro",
+        "userCohort" : "medicalStudent",
+        "userCountry" : "uk",
+        "title" : "50% off, for a limited time only!",
+        "summary" : "Incredible discount, just for you, but hurry!",
+        "subtitle" : "50% off Murmur Master Pro",
+        "messagePart1" : "Incredible discount, just for you, but hurry! Offer ends tomorrow at midnight UTC",
+        "action" : "openPaywall"
     }
     
 ]
