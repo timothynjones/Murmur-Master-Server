@@ -75,7 +75,7 @@
         "shortTitle" : "Help needed",
         "messagePart1" : "Murmur Master has helped 1000s learning heart sounds but we continually strive to make it better.",
         "messagePart2" : "We'd really appreciate 5 minutes of your time to review Murmur Master to help us improve",
-        "action" : "gotoAppStoreReviewView"
+        "action" : "goToAppStoreReviewView"
     },
     {
         "id" : "5a8d5fdc-3c4b-4256-8fbd-a1a6f5606ef0",
@@ -132,6 +132,22 @@
         "messagePart1" : "Mitral stenosis is rare in the developed world but is still an important cause of morbidity and mortality. There are treatment options such as percutaneous balloon dilatation, so early detection is key. How do to rate your skills in detecting the mitral stenosis murmur?",
         "action" : "goToLesionDetailView",
         "pathIds" : ["5705135"]
+    },
+    {
+        "id" : "acb087b9-3094-4a90-b5ad-fb78b62cc966",
+        "updateType" : "newYouTubeVideo",
+        "updateStartTimeStamp" : 1754338385,
+        "updateLastTimeStamp" : 1756024407,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "New YT video",
+        "summary" : "Cardiac murmurs in 13 minutes",
+        "shortTitle" : "New YT video",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/cardiac-murmurs-video-thumbnail.png",
+        "messagePart1" : "Summary video that should help you gain a detailed understanding of cardiac murmurs and how they occur!",
+        "action" : "goToYouTubeVideo",
+        "externalLink" : "https://www.youtube.com/watch?v=j668dFcpRaE"
     }
     
 ]
