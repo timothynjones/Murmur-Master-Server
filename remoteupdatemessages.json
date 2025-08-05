@@ -9,11 +9,11 @@
         "userPaymentStatus" : "all",
         "userCohort" : "all",
         "userCountry" : "all",
-        "title" : "What's new in version 3.4.1",
-        "summary" : "New in-app notification feature. Stay up-to-date with the latest developments!",
+        "title" : "What's new in version 3.4.1?",
+        "summary" : "New in-app notification feature. Stay up to date with the latest developments!",
         "shortTitle" : "New feature",
         "messagePart1" : "Murmur Master® is proud to announce a new in-app notification feature! New notifications will appear in the update section on the top left hand corner of the screen.",
-        "messagePart2" : "Stay up-to-date with all the latest in Cardiology and new Murmur Master® features. We've got some great features coming coming out in the next few months. Also be sure to check out our new YouTube channel, which has incredible high-yield material!"
+        "messagePart2" : "Stay up to date with all the latest in Cardiology and new Murmur Master® features. We've got some great features coming coming out in the next few months. Also be sure to check out our new YouTube channel, which has incredible high-yield material!"
     }
     
 ]
