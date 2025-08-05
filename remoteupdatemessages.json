@@ -14,22 +14,6 @@
         "shortTitle" : "New feature",
         "messagePart1" : "Murmur Master® is proud to announce a new in-app notification feature! New notifications will appear in the update section on the top left hand corner of the screen.",
         "messagePart2" : "Stay up-to-date with all the latest in Cardiology and new Murmur Master® features. We've got some great features coming coming out in the next few months. Also be sure to check out our new YouTube channel, which has incredible high-yield material!"
-    },
-    {
-        "id" : "e653e40e-c104-4ac9-9682-f8da37b1d440",
-        "updateType" : "promotion",
-        "updateStartTimeStamp" : 1754386843,
-        "updateLastTimeStamp" : 1754555882,
-        "userPaymentStatus" : "nonPro",
-        "userCohort" : "all",
-        "userCountry" : "uk",
-        "title" : "Incredible offer on Murmur Master® Pro",
-        "summary" : "Exclusive 20% discount until August 4th",
-        "shortTitle" : "Exclusive discount",
-        "messagePart1" : "Incredible 20% discount on Murmur Master® pro. Just £3.99 for the first year!",
-        "messagePart2" : "Check it out now. Hurry, it won't last forever! Copy the promo code and paste it into the offer code to redeem!",
-        "promoCode" : "SUMMER20",
-        "action" : "openPaywall"
     }
     
 ]
