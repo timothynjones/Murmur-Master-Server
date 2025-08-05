@@ -1,15 +1,15 @@
 
 [
     {
-        "id" : "d5f625ca-0009-489b-a1fc-4a04f74192ce",
+        "id" : "9bc88481-9bb5-4ac3-8bc8-5e2e05ccfab2",
         "updateType" : "appUpdate",
-        "specificSoftwareVersion" : "3.4.0",
+        "specificSoftwareVersion" : "3.4.1",
         "updateStartTimeStamp" : 1754383082,
         "updateLastTimeStamp" : 1756024407,
         "userPaymentStatus" : "all",
         "userCohort" : "all",
         "userCountry" : "all",
-        "title" : "What's new in version 3.4.0",
+        "title" : "What's new in version 3.4.1",
         "summary" : "New in-app notification feature. Stay up-to-date with the latest developments!",
         "shortTitle" : "New feature",
         "messagePart1" : "Murmur Master® is proud to announce a new in-app notification feature! New notifications will appear in the update section on the top left hand corner of the screen.",
