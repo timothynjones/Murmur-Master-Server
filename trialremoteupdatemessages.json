@@ -43,6 +43,7 @@
         "shortTitle" : "Exclusive discount",
         "messagePart1" : "Incredible discount on Murmur Master services for just £3.99 for the first year",
         "messagePart2" : "Check it out now",
+        "promoCode" : "SUMMER20",
         "action" : "openPaywall"
     },
     {
