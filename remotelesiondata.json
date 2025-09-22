@@ -9386,6 +9386,7 @@
                 "setId" : 6479886,
                 "codedId" : "mavr05",
                 "name" : "Mechanical AVR 5",
+                "murmurNewUntilDate" : 1759622400,
                 "description" : "This patient has a ball and cage (Starr Edwards) metallic valve replacement in the aortic position. This is an old type of valve replacement which has been superseded by newer models, such as the bileaflet valve. Ball and cage aortic valve replacements block backflow by a metal ball falling back into the valve orifice in diastole. In systole, the ball is pushed forward inside a cage to open the orifice and allow blood to flow around it. It produces a opening metallic click, which often occurs just after S1 (here almost indistinguishable from S1) and a closing metallic click, which replaces S2. It is very difficult to distinguish from a dual aortic and mitral valve replacement as both sounds are metallic, but here there is a metallic sounding rumbling in systole heard occasionally as the ball vibrates around inside the cage. Ball and cage valves are almost unused now due to their much higher risk of valve thrombosis compared to newer valve replacements, but there are still patients who have had them inserted historically.",
                 "sounds" : [
                     {
