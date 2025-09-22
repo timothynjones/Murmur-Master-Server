@@ -14,6 +14,22 @@
         "shortTitle" : "New feature",
         "messagePart1" : "Murmur Master® is proud to announce a new in-app notification feature! New notifications will appear in the update section on the top left hand corner of the screen.",
         "messagePart2" : "Stay up to date with all the latest in Cardiology and new Murmur Master® features. We've got some great features coming coming out in the next few months. Also be sure to check out our new YouTube channel, which has incredible high-yield material!"
+    },
+    {
+        "id" : "b904af7a-be34-4080-aaac-50c0112a2097",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 1758565082,
+        "updateLastTimeStamp" : 1759622400,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Incredible new murmur",
+        "summary" : "Have you ever heard a ball and cage (Starr Edwards) valve replacement?",
+        "shortTitle" : "New murmur",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/starredwardsvalveimage.jpg",
+        "messagePart1" : "Have you ever heard a Starr Edwards (Ball and cage) valve replacement? These are older valve replacements, which have been superseded by newer models, such as the bileaflet valve. They have a unique sound profile. Check out this case to learn more!",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["6479886", "4"]
     }
     
 ]
