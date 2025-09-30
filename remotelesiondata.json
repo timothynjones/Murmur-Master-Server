@@ -1625,7 +1625,7 @@
     {
         "orderedId" : 2,
         "setId": 7431393,
-        "freeTrialAccess" : false,
+        "freeTrialAccess" : true,
         "name" : "Aortic Sclerosis",
         "searchText" : "aortic sclerosis, aorta, thickened",
         "systolicMurmur" : true,
