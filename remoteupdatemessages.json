@@ -43,7 +43,7 @@
         "summary" : "Aortic regurgitation summary",
         "shortTitle" : "New YT video",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/ar-video-thumbnail.png",
-        "messagePart1" : "New aortic regurgitation (insufficiency) video. Are you a visual learner? This video provides a great summary on aortic regurgitation to get you up to help you learn fast!",
+        "messagePart1" : "New aortic regurgitation (insufficiency) video. Are you a visual learner? This video provides a great summary on aortic regurgitation to help you learn fast!",
         "action" : "goToYouTubeVideo",
         "externalLink" : "https://youtu.be/OfiwiAR5VO4"
     }
