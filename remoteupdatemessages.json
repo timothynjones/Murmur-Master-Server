@@ -30,6 +30,22 @@
         "messagePart1" : "Have you ever heard a Starr Edwards (Ball and cage) valve replacement? These are older valve replacements, which have been superseded by newer models, such as the bileaflet valve. They have a unique sound profile. Check out this case to learn more!",
         "action" : "goToLearningMurmurView",
         "pathIds" : ["5545657", "4"]
+    },
+    {
+        "id" : "6f23dbb5-cfdb-48d4-b724-47ff084ab84d",
+        "updateType" : "newYouTubeVideo",
+        "updateStartTimeStamp" : 1759671902,
+        "updateLastTimeStamp" : 1760535902,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "New YT video",
+        "summary" : "Aortic regurgitation summary",
+        "shortTitle" : "New YT video",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/ar-video-thumbnail.png",
+        "messagePart1" : "New aortic regurgitation (insufficiency) video. Are you a visual learner? This video provides a great summary on aortic regurgitation to get you up to help you learn fast!",
+        "action" : "goToYouTubeVideo",
+        "externalLink" : "https://youtu.be/OfiwiAR5VO4"
     }
     
 ]
