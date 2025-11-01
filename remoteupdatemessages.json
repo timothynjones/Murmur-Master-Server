@@ -46,6 +46,22 @@
         "messagePart1" : "New aortic regurgitation (insufficiency) video. Are you a visual learner? This video provides a great summary on aortic regurgitation to help you learn fast!",
         "action" : "goToYouTubeVideo",
         "externalLink" : "https://youtu.be/OfiwiAR5VO4"
+    },
+    {
+        "id" : "a34a55d2-2710-46bf-84de-195d72053e19",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 1762022585,
+        "updateLastTimeStamp" : 1762627383,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Test your skills!",
+        "summary" : "Have you got what it takes to crack this case?",
+        "shortTitle" : "New case",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/pericarditisecg.jpg",
+        "messagePart1" : "A 38-year old gentleman presents to the emergency department with 3 hours of chest pain. A language barrier prevents initial assessment of the nature of the pain. His ECG has been highlighted as showing a potential ST-elevation myocardial infarction. What do you think the diagnosis is? Check out his auscultation findings now!",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["7659755", "3"]
     }
     
 ]
