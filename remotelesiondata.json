@@ -8631,7 +8631,7 @@
                         "remoteStorage" : true,
                         "amplificationFactor" : 3,
                         "heartRate" : 87,
-                        "phonogramAmplitude" : 0.5,
+                        "phonogramAmplitude" : 0.3,
                         "s2Position" : 0.4,
                         "fileName" : "pfr04p2",
                         "remoteURL" : "https://timothynjones.github.io/Murmur-Master-Server/pfr04p2.mp3"
@@ -8686,7 +8686,7 @@
                         "soundDuration" : 4.048,
                         "soundSystoleCount" : 6,
                         "remoteStorage" : true,
-                        "amplificationFactor" : 1,
+                        "amplificationFactor" : 0,
                         "heartRate" : 89,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.4,
