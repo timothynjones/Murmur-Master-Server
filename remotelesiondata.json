@@ -8577,7 +8577,7 @@
                 "setId" : 1332456,
                 "codedId" : "pfr04",
                 "name" : "Pericardial Friction Rub 4",
-                "description" : "A soft pericardial friction rub, heard loudest at the cardiac apex. It is mainly heard as a scratching sound in diastole, but a systolic component is also just audible.",
+                "description" : "A soft pericardial friction rub, heard loudest at the cardiac apex. It is mainly heard as a scratching sound in diastole, but a systolic component is also just audible. This patient presented with acute pericarditis. Always listen carefully as sometimes the rub is subtle, as in this case, but it can help clinch the diagnosis!",
                 "sounds" : [
                     {
                         "orderedId" : 0,
