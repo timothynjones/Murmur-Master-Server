@@ -307,6 +307,70 @@
             
             ]
         
+    },
+    {
+        "universalSymptomName" : "Wheeze",
+        "universalSymptomDescription" : "Wheeze is a high-pithed musical lung sound due to air moving through narrowed or compressed airways. Although it is mostly considered a clinically sign, patients will sometimes report it as a symptom. It usually occurs in expiration.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Respiratory",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["COPD (chronic irreversible airway obstruction", "Asthma (irreversible airway obstruction)", "Bronchiectasis (enlarged and scarred larger airways)", "Luminal airway obstruction (e.g. lung cancer, foreign body"]
+            },
+            {
+                "categoryName" : "Cardiac",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Pulmonary oedema of any cause e.g. congestive cardiac failure or valve disease"]
+            },
+            {
+                "categoryName" : "Infective",
+                "categoryImage" : "virusimage",
+                "causes" : ["Acute bronchitis (viral or bacterial)", "Bronchiolitis in infants (due to infection with respiratory syncytial virus)"]
+            },
+            {
+                "categoryName" : "Medication",
+                "categoryImage" : "medicationimage",
+                "causes" : ["Beta blockers", "NSAIDs/aspirin"]
+            }
+            ]
+        
+    },
+    {
+        "universalSymptomName" : "Cough",
+        "universalSymptomDescription" : "A forceful reflex action to clear irritants such as mucous or foreign bodies from the airways, triggered by irritation of airway cough receptors.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Respiratory",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["Smoking and COPD", "Asthma", "Bronchiectasis", "Lung cancer", "Interstitial lung disease", "Aspiration of a foreign body"]
+            },
+            {
+                "categoryName" : "Infective",
+                "categoryImage" : "virusimage",
+                "causes" : ["Acute bronchitis (viral inc COVID-19 or bacterial)", "Lobar pneumonia", "Bronchiolitis in infants (due to infection with respiratory syncytial virus)"]
+            },
+            {
+                "categoryName" : "ENT",
+                "categoryImage" : "airwaycauseimage",
+                "causes" : ["Post-nasal drip"]
+            },
+            {
+                "categoryName" : "ENT",
+                "categoryImage" : "airwaycauseimage",
+                "causes" : ["Post-nasal drip"]
+            },
+            {
+                "categoryName" : "Oesophageal",
+                "categoryImage" : "oesophagealcauseimage",
+                "causes" : ["Gastro-oesophageal reflux disease"]
+            },
+            {
+                "categoryName" : "Medication",
+                "categoryImage" : "medicationimage",
+                "causes" : ["ACE-inhibitors inhibit the enzyme angiotensin converting enzyme, which converts angiotensin I to II, but also breaks down bradykinin, which stimulates C-fibres, resulting in cough"]
+            }
+            ]
+        
     }
     
     
