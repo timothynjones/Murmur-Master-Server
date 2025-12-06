@@ -355,11 +355,6 @@
                 "causes" : ["Post-nasal drip"]
             },
             {
-                "categoryName" : "ENT",
-                "categoryImage" : "airwaycauseimage",
-                "causes" : ["Post-nasal drip"]
-            },
-            {
                 "categoryName" : "Oesophageal",
                 "categoryImage" : "oesophagealcauseimage",
                 "causes" : ["Gastro-oesophageal reflux disease"]
