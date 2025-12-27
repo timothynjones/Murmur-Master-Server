@@ -366,6 +366,39 @@
             }
             ]
         
+    },
+    {
+        "universalSymptomName" : "Haemoptysis",
+        "universalSymptomDescription" : "Haemoptysis is coughing up blood or blood-stained mucous from the airways.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Infective",
+                "categoryImage" : "virusimage",
+                "causes" : ["Acute or viral bronchitis", "Lobar pneumonia", "Tuberculosis", "Lung abscess", "Aspergilloma"]
+            },
+            {
+                "categoryName" : "Respiratory ",
+                "categoryImage" : "respiratorycauseimage",
+                "causes" : ["Bronchiectasis", "Carcinoma of the lung"]
+            },
+
+            {
+                "categoryName" : "Cardiovascular",
+                "categoryImage" : "cardiaccauseimage",
+                "causes" : ["Pulmonary embolism", "Vasculitis (e.g. Goodpasture's syndrome, Granulomatosis with polyangiitis, systemic lupus erythematosus)", "Arteriovenous malformations", "Raised pulmonary venous pressure (e.g. mitral stenosis)"]
+            },
+            {
+                "categoryName" : "Psuedo-haemoptysis",
+                "categoryImage" : "mimiccauseimage",
+                "causes" : ["Haematemesis", "Aspirated blood (e.g. from epistaxis", "Serratia marcescens pneumonia (red pigment prodigiosin causes red sputum)"]
+            },
+            {
+                "categoryName" : "Medication",
+                "categoryImage" : "medicationimage",
+                "causes" : ["Anticoagulants and antiplatelets can worsen haemoptysis from another other cause"]
+            }
+            ]
+        
     }
     
     
