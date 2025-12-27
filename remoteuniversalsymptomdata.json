@@ -395,7 +395,7 @@
             {
                 "categoryName" : "Medication",
                 "categoryImage" : "medicationimage",
-                "causes" : ["Anticoagulants and antiplatelets can worsen haemoptysis from another other cause"]
+                "causes" : ["Anticoagulants and antiplatelets can worsen haemoptysis from any other cause"]
             }
             ]
         
