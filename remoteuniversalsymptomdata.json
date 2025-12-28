@@ -399,6 +399,39 @@
             }
             ]
         
+    },
+    {
+        "universalSymptomName" : "Fever",
+        "universalSymptomDescription" : "A fever is a temporary rise in core body temperature (classically defined as ≥ 38.0 degrees celsius, although some consider 37.3 - 38 degrees celsius a low-grade fever. It is commonly associated with systemic symptoms, such as chills and rigors, headache, myalgia and arthralgia.",
+        "universalSymptomCauseCategories" : [
+            {
+                "categoryName" : "Infective",
+                "categoryImage" : "virusimage",
+                "causes" : ["Viral infections (e.g. influenza, common colds, COVID-19, gastroenteritis, etc", "Bacterial infections (e.g. pneumonia/respiratory infections, ENT infections (e.g. pharyngitis, otitis media), urinary tract infections, meningitis, endocarditis, abscesses, skin and soft tissue infections", "Protozoal infections (e.g. malaria, toxoplasmosis, giardiasis, cryptosporidiosis, amoebiasis", "Fungal infections (e.g. candidiasis, aspergillosis, pneumocystis pneumonia, cryptococcosis)"]
+            },
+            {
+                "categoryName" : "Inflammatory ",
+                "categoryImage" : "autoimmuneimage",
+                "causes" : ["Inflammatory arthritis (e.g. rheumatoid arthritis, seronegative spondyloarthropathies, Still's disease)", "Inflammatory connective tissue disease (e.g. systemic lupus erythematosus, dermatomyositis, systemic sclerosis, Sjogren's syndrome, etc", "Other autoimmune disease (e.g. inflammatory bowel disease", "Vasculitis (e.g. giant-cell arteritis, polyarteritis nodosa, ANCA-associated vasculitis"]
+            },
+            {
+                "categoryName" : "Malignant",
+                "categoryImage" : "cancercellimage",
+                "causes" : ["Solid haematological (e.g. Hodgkin and non-Hodgkin lymphoma)", "Leukaemias (e.g. acute and chronic, myeloid and lymphocytic", "Non-haematological"]
+            },
+            {
+                "categoryName" : "Metabolic/impaired homeostasis",
+                "categoryImage" : "metaboliccauseimage",
+                "causes" : ["Hyperthyroidism", "Heat exhaustion", "Neuroleptic malignant syndrome", "Malignant hyperpyrexia", "Serotonin syndrome", "Venous thromboembolism"]
+            },
+            
+            {
+                "categoryName" : "Medication",
+                "categoryImage" : "medicationimage",
+                "causes" : ["Illicit (e.g. cocaine, amphetamines)", "Antimicrobials (e.g. penicillins, amphotericin)", "Anticonvulsants (e.g. phenytoin), Psychotropic medications (antipsychotics and antidepressants)"]
+            }
+            ]
+        
     }
     
     
