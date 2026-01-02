@@ -78,6 +78,22 @@
         "messagePart1" : "Check out this great summary on atrial fibrillation (AF). A high-yield overview on AF, which is the commonest sustained arrhythmia. Part 1 covers: what AF is, how to recognise it, what causes it and what the symptoms and complications are!",
         "action" : "goToYouTubeVideo",
         "externalLink" : "https://youtu.be/6HlPYOfti6E"
+    },
+    {
+        "id" : "06bd6797-fb40-4fa1-9501-b7b5647a90cd",
+        "updateType" : "newYouTubeVideo",
+        "updateStartTimeStamp" : 1767376323,
+        "updateLastTimeStamp" : 1768067517,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Happy new year and festive video!",
+        "summary" : "Happy new year and festive video!",
+        "shortTitle" : "The holiday heart syndrome",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/holiday-heart-thumbnail.png",
+        "messagePart1" : "Happy new year from Murmur Master! Check out this festive new YouTube video: the holiday heart syndrome - relevant for the time of year!",
+        "action" : "goToYouTubeVideo",
+        "externalLink" : "https://youtu.be/DoEDepyvBEc"
     }
     
 ]
