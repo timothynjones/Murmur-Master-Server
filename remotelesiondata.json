@@ -7157,7 +7157,7 @@
         "image" : "asdimagetrial",
         "nonCircularImage" : true,
         "shortSummary" : "An abnormal defect in the interatrial septum",
-        "summary" : "An atrial septal defect (ASD) is an abnormal defect in the interatrial septum, allowing blood shunting between the atria. It is a common type of congenital heart disease, with around 1 in 1500 newborn babies affected. ASDs can either occur as an isolated defect or associated with a syndrome. The majority are asymptomatic in childhood and present in adulthood with shortness of breath, palpitations and signs of heart failure. A patent foramen ovale (PFO) is distinct from an ASD as it only opens and allows shunting under specific conditions, such as the Valsalva manoeuvre. It affects as much as 25% of the population.",
+        "summary" : "An atrial septal defect (ASD) is an abnormal defect in the interatrial septum, allowing blood shunting between the atria. It is a common type of congenital heart disease, with around 1 in 1500 newborn babies affected. ASDs can either occur as an isolated defect or associated with a syndrome. The age of presentation can vary significantly, depending on the size of the defect, with more severe defects presenting in infancy and smaller ones presenting in late childhood or adulthood. Typical symptoms include: shortness of breath, palpitations and signs of heart failure. A patent foramen ovale (PFO) is distinct from an ASD as it only opens and allows shunting under specific conditions, such as the Valsalva manoeuvre. It affects as much as 25% of the population.",
         "causes" : [
             {
                 "name" : "Ostium secundum ASD",
