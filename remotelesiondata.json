@@ -7811,7 +7811,7 @@
         ],
         "medicalManagement" : ["90% of congenital VSDs close spontaneously in the first year of life", "Diuretics if fluid overload"],
         "percutaneousManagement" : ["Rarely used, mainly for those who have indications for surgery but are high risk (and usually only muscular VSDs)"],
-        "surgicalManagement" : ["Surgical closure recommended for those with high pulmonary to aortic flow ratio (Qp:Qs > 1.5:1) with LV volume overload and no significant pulmonary hypertension or previous infective endocarditis or secondary aortic regurgitation", "Surgical closure not recommended if Eisenmenger syndrome has already developed"],
+        "surgicalManagement" : ["Surgical closure recommended for those with high pulmonary to aortic flow ratio (Qp:Qs > 1.5:1) with LV volume overload and no significant pulmonary hypertension, or those with previous infective endocarditis or secondary aortic regurgitation", "Surgical closure not recommended if Eisenmenger syndrome has already developed"],
         "complications" : ["Respiratory tract infections in infants", "Infective endocarditis", "Pulmonary hypertension and Eisenmenger syndrome (pulmonary vascular resistance exceeds systemic resistance) leading to shunt reversal (R to L)", "Embolisation across the VSD", "Aortic regurgitation"],
         "clinicalPearls" : ["Reducing systemic afterload/blood pressure can reduce left to right shunting across a VSD", "Perimembranous VSDs can cause secondary aortic regurgitation due to the right coronary cusp of the aortic valve being 'sucked' downwards into the VSD due to the Venturi effect", "Do not close VSDs when Eisenmenger syndrome has already developed - risk RV failure"],
         "references" : [
