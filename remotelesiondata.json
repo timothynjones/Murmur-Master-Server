@@ -6400,7 +6400,7 @@
                         "soundDuration" : 6.355,
                         "soundSystoleCount" : 9,
                         "remoteStorage" : true,
-                        "amplificationFactor" : 2,
+                        "amplificationFactor" : 0.2,
                         "heartRate" : 85,
                         "phonogramAmplitude" : 0,
                         "s2Position" : 0.4,
