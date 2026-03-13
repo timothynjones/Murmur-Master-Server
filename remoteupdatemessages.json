@@ -94,6 +94,22 @@
         "messagePart1" : "Happy new year from Murmur Master! Check out this festive new YouTube video: the holiday heart syndrome - relevant for the time of year!",
         "action" : "goToYouTubeVideo",
         "externalLink" : "https://youtu.be/DoEDepyvBEc"
+    },
+    {
+        "id" : "876a3077-1609-4f8e-aa6e-4fd2a8690570",
+        "updateType" : "newYouTubeVideo",
+        "updateStartTimeStamp" : 1773417964,
+        "updateLastTimeStamp" : 1774541162,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "New exam-focussed video",
+        "summary" : "Check it out now!",
+        "shortTitle" : "5 key murmurs",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/5-murmurs-thumbnail2.png",
+        "messagePart1" : "Check out Murmur Master's latest YouTube video. It's an exam focussed murmur summary to help you rapidly up-skill as we enter exam season! Hope you enjoy and best of luck!",
+        "action" : "goToYouTubeVideo",
+        "externalLink" : "https://youtu.be/QN-D-SZgeCs"
     }
     
 ]
