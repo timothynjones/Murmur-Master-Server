@@ -310,7 +310,7 @@
     },
     {
         "universalSymptomName" : "Wheeze",
-        "universalSymptomDescription" : "Wheeze is a high-pithed musical lung sound due to air moving through narrowed or compressed airways. Although it is mostly considered a clinically sign, patients will sometimes report it as a symptom. It usually occurs in expiration.",
+        "universalSymptomDescription" : "Wheeze is a high-pitched musical lung sound due to air moving through narrowed or compressed airways. Although it is mostly considered a clinical sign, patients will sometimes report it as a symptom. It usually occurs in expiration.",
         "universalSymptomCauseCategories" : [
             {
                 "categoryName" : "Respiratory",
