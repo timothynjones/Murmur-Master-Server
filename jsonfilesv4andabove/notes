@@ -1,0 +1,6 @@
+Just to note, pre release of v4.0.1 there are 5 JSON files stored in this folter (remotecardiaclesiondata, remoterespiratorylesiondata, remotequizdata2, remotetestdata2 and remoteuniversalsymptomdata). 
+
+worlduniversities is stored locally within the app
+
+remote updatemessages is stored in the main murmur-master-server file (so it can still be used on previous versions)
+
