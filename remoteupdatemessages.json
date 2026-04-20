@@ -110,6 +110,40 @@
         "messagePart1" : "Check out Murmur Master's latest YouTube video. It's an exam focussed murmur summary to help you rapidly up-skill as we enter exam season! Hope you enjoy and best of luck!",
         "action" : "goToYouTubeVideo",
         "externalLink" : "https://youtu.be/QN-D-SZgeCs"
+    },
+    {
+        "id" : "05e6894f-807d-4ac6-b03f-cb1b715fe4ad",
+        "updateType" : "appUpdate",
+        "specificSoftwareVersion" : "4.0.2",
+        "updateStartTimeStamp" : 1776677013,
+        "updateLastTimeStamp" : 1781947412,
+        "userPaymentStatus" : "nonPro",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "What's new in version 4.0.2?",
+        "summary" : "Lung sounds, new features and more!",
+        "shortTitle" : "Lung sounds, new features and more!",
+        "messagePart1" : "We're delighted to bring you the latest update from Murmur Master® - a dedicated section for lung sounds and respiratory auscultation. All included with Murmur Master® Pro membership!",
+        "messagePart2" : "Access a huge range of respiratory lesions, high-fidelity lung sounds recorded from real patients and stunning animations and respiratory phonograms, to help you become a pro at respiratory auscultation as well! We'd also be delighted to hear your thoughts and feedback!",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/update-message-images/lunganimationimage.png",
+        "action" : "goToAppStoreReviewView"
+    },
+    {
+        "id" : "05e6894f-807d-4ac6-b03f-cb1b715fe4ad",
+        "updateType" : "appUpdate",
+        "specificSoftwareVersion" : "4.0.2",
+        "updateStartTimeStamp" : 1776677013,
+        "updateLastTimeStamp" : 1781947412,
+        "userPaymentStatus" : "pro",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "What's new in version 4.0.2?",
+        "summary" : "Lung sounds included in your plan",
+        "shortTitle" : "Lung sounds included in your plan",
+        "messagePart1" : "As a valued user of Murmur Master® Pro, we're delighted to bring you our latest update - a dedicated section for lung sounds and respiratory auscultation. All included with your Murmur Master® Pro membership!",
+        "messagePart2" : "Access a huge range of respiratory lesions, high-fidelity lung sounds recorded from real patients and stunning animations and respiratory phonograms, to help you become a pro at respiratory auscultation as well! We're bringing this to you as included within your membership plan, to say thank you for your support in the early days! In return, we wonder whether you could do us a favour - if you found Murmur Master® useful, give us a rating on the App store and recommend to a friend who you think could also benefit!",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/update-message-images/lunganimationimage.png",
+        "action" : "goToAppStoreReviewView"
     }
     
 ]
