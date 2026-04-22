@@ -4432,7 +4432,7 @@
                         "fileName" : "nls01p4and5"
                     }
                 ]
-            },
+            }
         ],
         "xrayFindings" : ["Usually at least 200 ml to be visible on AP CXR", "Initially blunting of the costophrenic angles", "Then dense opacity without lung markers and meniscus sign (higher at lateral edges than centre)", "Massive effusions (>1000 ml) cause mediastinal shifts to the contralateral side"],
         "ctFindings" : ["More sensitive (can see smaller effusions)", "Can assess for cause/malignancy (best once drained)"],
