@@ -142,6 +142,21 @@
         "messagePart1" : "As a valued user of Murmur Master® Pro, we're delighted to bring you our latest update - a dedicated section for lung sounds and respiratory auscultation. All included with your Murmur Master® Pro membership!",
         "messagePart2" : "Access a huge range of respiratory lesions, high-fidelity lung sounds recorded from real patients and stunning animations and respiratory phonograms, to help you become a pro at respiratory auscultation as well! We're bringing this to you as included within your membership plan, to say thank you for your support in the early days! In return, we wonder whether you could do us a favour - if you found Murmur Master® useful, give us a rating on the App store and recommend to a friend who you think could also benefit!",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/update-message-images/lunganimationimage.png"
+    },
+    {
+        "id" : "d0bbf0b3-f3da-40aa-b10c-915f9fffd646",
+        "updateType" : "feedbackRequest",
+        "updateStartTimeStamp" : 1777798154,
+        "updateLastTimeStamp" : 1785746954,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Are you enjoying Murmur Master?",
+        "summary" : "Could you provide a quick rating (takes 5 seconds)",
+        "shortTitle" : "Quick rating",
+        "messagePart1" : "Murmur Master has helped 1000s learning heart and lung sounds but we continually strive to make it better.",
+        "messagePart2" : "We'd really appreciate 5 seconds of your time to review Murmur Master to help us improve! Thanks so much in advance",
+        "action" : "goToAppStoreReviewView"
     }
     
 ]
