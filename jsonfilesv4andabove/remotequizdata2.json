@@ -2328,7 +2328,7 @@
         "murmurName" : "Asthma",
         "image" : "asthmaimage",
         "answers" : ["Monophonic wheeze", "Polyphonic wheeze", "Inspiratory rhonchi", "Expiratory rhonchi"],
-        "correctIndex" : 2,
+        "correctIndex" : 1,
         "activePosition" : 3,
         "commonMurmur" : true,
         "lungSound" : {
