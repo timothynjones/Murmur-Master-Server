@@ -151,6 +151,7 @@
         "userPaymentStatus" : "all",
         "userCohort" : "all",
         "userCountry" : "all",
+        "platforms": ["ios", "android"],
         "title" : "Are you enjoying Murmur Master?",
         "summary" : "Could you provide a quick rating (takes 5 seconds)",
         "shortTitle" : "Quick rating",
