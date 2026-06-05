@@ -158,6 +158,23 @@
         "messagePart1" : "Murmur Master has helped 1000s learning heart and lung sounds but we continually strive to make it better.",
         "messagePart2" : "We'd really appreciate 5 seconds of your time to review Murmur Master to help us improve! Thanks so much in advance",
         "action" : "goToAppStoreReviewView"
+    },
+    {
+        "id" : "c4c42f7f-6f3d-4cfa-8416-7d0511b7a3e1",
+        "updateType" : "appUpdate",
+        "specificSoftwareVersion" : "1.0.3",
+        "updateStartTimeStamp" : 1780669797,
+        "updateLastTimeStamp" : 1780680597,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Test Android v 1.0.3?",
+        "summary" : "Test for android in-app notification feature. Stay up to date with the latest developments!",
+        "shortTitle" : "New feature",
+        "messagePart1" : "Murmur Master® is proud to announce a new in-app notification feature! New notifications will appear in the update section on the top left hand corner of the screen.",
+        "messagePart2" : "Should go to pericardial friction rub",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["7659755", "3"]
     }
     
 ]
