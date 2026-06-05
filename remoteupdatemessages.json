@@ -175,6 +175,40 @@
         "messagePart2" : "Should go to pericardial friction rub",
         "action" : "goToLearningMurmurView",
         "pathIds" : ["7659755", "3"]
+    },
+    {
+        "id" : "21d9cf42-d088-491d-bb6a-49f864c8eb3a",
+        "updateType" : "appUpdate",
+        "specificSoftwareVersion" : "4.0.3",
+        "updateStartTimeStamp" : 1780669797,
+        "updateLastTimeStamp" : 1780680597,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Test resp lesion",
+        "summary" : "Test for resp lesion",
+        "shortTitle" : "New feature",
+        "messagePart1" : "Test",
+        "messagePart2" : "Should go to COPD case 2",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["9927250", "1"]
+    },
+    {
+        "id" : "30180c04-6257-48b5-98e8-1b427714aa85",
+        "updateType" : "appUpdate",
+        "specificSoftwareVersion" : "1.0.3",
+        "updateStartTimeStamp" : 1780669797,
+        "updateLastTimeStamp" : 1780680597,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "title" : "Test resp lesion",
+        "summary" : "Test for resp lesion",
+        "shortTitle" : "New feature",
+        "messagePart1" : "Test",
+        "messagePart2" : "Should go to COPD case 2",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["9927250", "1"]
     }
     
 ]
