@@ -209,6 +209,24 @@
         "messagePart2" : "Should go to COPD case 2",
         "action" : "goToLearningMurmurView",
         "pathIds" : ["9927250", "1"]
+    },
+    {
+        "id" : "d6ee24fa-d47a-41dd-ac89-2caced4b43b0",
+        "updateType" : "other",
+        "specificSoftwareVersion" : "4.1.0",
+        "updateStartTimeStamp" : 1781777511,
+        "updateLastTimeStamp" : 1781791911,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "specificInstitutionalCohortIds" : ["test-cohort"],
+        "title" : "Test message",
+        "summary" : "Test for resp lesion",
+        "shortTitle" : "New feature",
+        "messagePart1" : "Test",
+        "messagePart2" : "Should go to COPD case 2",
+        "action" : "goToLearningMurmurView",
+        "pathIds" : ["9927250", "1"]
     }
     
 ]
