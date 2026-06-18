@@ -212,7 +212,7 @@
     },
     {
         "id" : "d6ee24fa-d47a-41dd-ac89-2caced4b43b0",
-        "updateType" : "other",
+        "updateType" : "appUpdate",
         "specificSoftwareVersion" : "4.1.0",
         "updateStartTimeStamp" : 1781777511,
         "updateLastTimeStamp" : 1781878311,
