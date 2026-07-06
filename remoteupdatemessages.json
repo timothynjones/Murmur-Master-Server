@@ -227,6 +227,21 @@
         "messagePart2" : "Should go to COPD case 2",
         "action" : "goToLearningMurmurView",
         "pathIds" : ["9927250", "1"]
+    },
+    {
+        "id" : "cb6c9ecb-5dcd-48d7-9fc8-377f4a84673d",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 1783351711,
+        "updateLastTimeStamp" : 1784561311,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "platforms" : ["ios"],
+        "title" : "Murmur Master on Android!",
+        "summary" : "Murmur Master now available on android - help spread the word!",
+        "shortTitle" : "Android version",
+        "messagePart1" : "We're delighted to announce that Murmur Master is now available on Android devices! If you know a friend or colleague who uses Android devices, we ask that you let them know. See below link!",
+        "externalLink": "https://play.google.com/store/apps/details?id=com.medsphinx.murmurmaster"
     }
     
 ]
