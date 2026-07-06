@@ -241,6 +241,7 @@
         "summary" : "Murmur Master now available on android - help spread the word!",
         "shortTitle" : "Android version",
         "messagePart1" : "We're delighted to announce that Murmur Master is now available on Android devices! If you know a friend or colleague who uses Android devices, we ask that you let them know. See below link!",
+        "action" : "goToYouTubeVideo",
         "externalLink": "https://play.google.com/store/apps/details?id=com.medsphinx.murmurmaster"
     }
     
