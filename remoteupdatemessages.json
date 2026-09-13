@@ -128,7 +128,7 @@
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/update-message-images/lunganimationimage.png"
     },
     {
-        "id" : "05e6894f-807d-4ac6-b03f-cb1b715fe4ad",
+        "id" : "5f16e6d0-8fb0-44f7-a4da-59386062b768",
         "updateType" : "appUpdate",
         "specificSoftwareVersion" : "4.0.2",
         "updateStartTimeStamp" : 1776677013,
@@ -274,7 +274,7 @@
         "shortTitle" : "Founder message",
         "image" : "https://timothynjones.github.io/Murmur-Master-Server/update-message-images/portraitimage.jpg",
         "messagePart1": "Hi there — I'm Timothy Jones, a Cardiology registrar and the founder of Murmur Master.\n\nAuscultation is one of the few clinical skills you can't really learn from a textbook and it comes up in your exams. That's where Murmur Master comes in. I've spent quite a long time developing it, and it's now being used by thousands of medical students and doctors worldwide. \n\nImperial have provided free access to everyone in your year — but a lot haven't claimed theirs yet!",
-        "messagePart2": "If it's been useful to you, tell them. A word from a classmate does more than any message from me. All they need to do is go back to their welcome email, copy their unique code and redeem it in the app.\n\nThank you for being part of it and I really look forward to see how you get on.",
+        "messagePart2": "If it's been useful to you, tell them. A word from a classmate does more than any message from me. All they need to do is go back to their welcome email, copy their unique code and redeem it in the app.\n\nThank you for being part of it and I really look forward to see how you get on."
     }
     
 ]
