@@ -259,6 +259,22 @@
         "messagePart1" : "Murmur Master has helped 1000s learning heart and lung sounds but we continually strive to make it better.",
         "messagePart2" : "We'd really appreciate 20 seconds of your time to review Murmur Master to help us improve! It also helps us reach others learning heart and lung sounds. Thanks so much in advance",
         "action" : "goToAppStoreReviewView"
+    },
+    {
+        "id" : "f7e52e95-2a7a-4187-bcd0-cb6474ef380c0",
+        "updateType" : "other",
+        "updateStartTimeStamp" : 1789287275,
+        "updateLastTimeStamp" : 1790064000,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "specificInstitutionalCohortIds" : ["test-cohort"],
+        "title" : "A message from the founder",
+        "summary" : "Dr Timothy Jones",
+        "shortTitle" : "Founder message",
+        "image" : "https://timothynjones.github.io/Murmur-Master-Server/update-message-images/portraitimage.jpg",
+        "messagePart1": "Hi there — I'm Timothy Jones, a Cardiology registrar and the founder of Murmur Master.\n\nAuscultation is one of the few clinical skills you can't really learn from a textbook and it comes up in your exams. That's where Murmur Master comes in. I've spent quite a long time developing it, and it's now being used by thousands of medical students and doctors worldwide. \n\nImperial have provided free access to everyone in your year — but a lot haven't claimed theirs yet!",
+        "messagePart2": "If it's been useful to you, tell them. A word from a classmate does more than any message from me. All they need to do is go back to their welcome email, copy their unique code and redeem it in the app.\n\nThank you for being part of it and I really look forward to see how you get on.",
     }
     
 ]
