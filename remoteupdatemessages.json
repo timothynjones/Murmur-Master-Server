@@ -243,6 +243,22 @@
         "messagePart1" : "We're delighted to announce that Murmur Master is now available on Android devices! If you know a friend or colleague who uses Android devices, we ask that you let them know. See below link!",
         "action" : "goToYouTubeVideo",
         "externalLink": "https://play.google.com/store/apps/details?id=com.medsphinx.murmurmaster"
+    },
+    {
+        "id" : "f7e52e95-2a7a-4187-bcd0-cb6474ef380c",
+        "updateType" : "feedbackRequest",
+        "updateStartTimeStamp" : 1789285808,
+        "updateLastTimeStamp" : 1799740206,
+        "userPaymentStatus" : "all",
+        "userCohort" : "all",
+        "userCountry" : "all",
+        "platforms": ["ios", "android"],
+        "title" : "Are you enjoying Murmur Master?",
+        "summary" : "We'd really appreciate your feedback - it really helps!",
+        "shortTitle" : "Quick rating",
+        "messagePart1" : "Murmur Master has helped 1000s learning heart and lung sounds but we continually strive to make it better.",
+        "messagePart2" : "We'd really appreciate 20 seconds of your time to review Murmur Master to help us improve! It also helps us reach others learning heart and lung sounds. Thanks so much in advance",
+        "action" : "goToAppStoreReviewView"
     }
     
 ]
