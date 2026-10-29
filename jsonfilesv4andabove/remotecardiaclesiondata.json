@@ -1577,20 +1577,20 @@
         "grades" : [
             {
                 "name" : "Mild",
-                "content" : ["MG < 20 mmHg", "VA > 1.5 cm²", "PV < 3.0 m/s"],
-                "key" : ["MG = Mean gradient across aortic valve ", "VA = Valve area", "PV = Peak Velocity"],
+                "content" : ["MG < 20 mmHg", "VA > 1.5 cm²", "Vmax < 3.0 m/s"],
+                "key" : ["MG = Mean gradient across aortic valve ", "VA = Valve area", "Vmax = Peak Velocity"],
                 "severityIndex" : 0
             },
             {
                 "name" : "Moderate",
-                "content" : ["MG 20 - 39 mmHg", "VA 1.0 - 1.5 cm²", "PV 3 – 3.9 m/s"],
-                "key" : ["MG = Mean gradient across aortic valve ", "VA = Valve area", "PV = Peak Velocity"],
+                "content" : ["MG 20 - 39 mmHg", "VA 1.0 - 1.5 cm²", "Vmax 3 – 3.9 m/s"],
+                "key" : ["MG = Mean gradient across aortic valve ", "VA = Valve area", "Vmax = Peak Velocity"],
                 "severityIndex" : 1
             },
             {
                 "name" : "Severe",
-                "content" : ["MG > 40 mmHg", "VA < 1.0 cm²", "PV > 4 m/s"],
-                "key" : ["MG = Mean gradient across aortic valve ", "VA = Valve area", "PV = Peak Velocity"],
+                "content" : ["MG ≥ 40 mmHg", "VA < 1.0 cm²", "Vmax ≥ 4 m/s"],
+                "key" : ["MG = Mean gradient across aortic valve ", "VA = Valve area", "Vmax = Peak Velocity"],
                 "severityIndex" : 2
             }
         ],
@@ -2698,8 +2698,8 @@
             }
         ],
         "medicalManagement" : ["Prevent and treat hypertension", "Diuretics", "Treatments for heart failure"],
-        "percutaneousManagement" : ["Remains experimental e.g. transcatheter aortic valve implantation (TAVI)"],
-        "surgicalManagement" : ["Surgical aortic valve replacement"],
+        "percutaneousManagement" : ["Transcatheter aortic valve implantation (TAVI) for selected cases that are not suitable for surgical management"],
+        "surgicalManagement" : ["Surgical aortic valve replacement is first line"],
         "complications" : ["Heart failure", "Infective endocarditis", "Arrhythmias", "Sudden cardiac death"],
         "clinicalPearls" : ["Acute aortic regurgitation is usually poorly tolerated as the LV does not have time to compensate"],
         "references" : [
@@ -3238,11 +3238,11 @@
         "causes" : [
             {
                 "name" : "Primary MR (structurally abnormal leaflets/apparatus)",
-                "causes" : ["Senile degeneration/calcification (elderly)", "Papillary muscle rupture (e.g. post-myocardial infarction)", "Mitral valve prolapse", "Infective endocarditis", "Rheumatic fever"]
+                "causes" : ["Senile degeneration/calcification (elderly)", "Papillary muscle rupture (e.g. post-myocardial infarction)", "Mitral valve prolapse", "Infective endocarditis", "Rheumatic fever", "Marfan syndrome", "Osteogenesis imperfecta"]
             },
             {
                 "name" : "Secondary/functional MR (imbalance of closing/tethering forces with structurally normal leaflets)",
-                "causes" : ["Annulus dilatation (LV or LA dilatation e.g. dilated cardiomyopathy, chronic AF)", "Apparatus dysfunction e.g. ischaemic MR", "Marfan syndrome", "Osteogenesis imperfecta"]
+                "causes" : ["Annulus dilatation (LV or LA dilatation e.g. dilated cardiomyopathy, chronic AF)", "Apparatus dysfunction e.g. ischaemic MR"]
             }
             
         ],
