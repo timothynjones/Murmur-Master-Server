@@ -7448,7 +7448,7 @@
         "medicalManagement" : ["Diuretics if fluid overload", "Otherwise limited medical management"],
         "percutaneousManagement" : ["Percutaneous device closure is first line for secundum ASDs", "Usually performed once there is RV volume overload, increased pulmonary blood flow or paradoxical embolism", "Should not be performed if already established Eisenmenger syndrome"],
         "surgicalManagement" : ["Surgical closure is second line for secundum ASDs"],
-        "complications" : ["Atrial fibrillation", "Paroxysmal embolism and associations (cryptogenic stroke/TIA, migraine, decompression sickness)", "Infective endocarditis", "Pulmonary hypertension and Eisenmenger syndrome (pulmonary vascular resistance exceeds systemic resistance) leading to shunt reversal (R to L)"],
+        "complications" : ["Atrial fibrillation", "Paradoxical embolism and associations (cryptogenic stroke/TIA, migraine, decompression sickness)", "Infective endocarditis", "Pulmonary hypertension and Eisenmenger syndrome (pulmonary vascular resistance exceeds systemic resistance) leading to shunt reversal (R to L)"],
         "clinicalPearls" : ["Even though an untreated ASD is a recognised cause of Eisenmenger syndrome, it is much less likely than a VSD to progress in this manner"],
         "references" : [
             {
