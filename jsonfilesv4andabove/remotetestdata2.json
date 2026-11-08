@@ -28739,12 +28739,12 @@
     "answers": [
       "Infective endocarditis",
       "Previous rheumatic fever",
-      "Paroxysmal embolism",
+      "Paradoxical embolism",
       "LV apical thrombus",
       "Carotid artery stenosis"
     ],
     "correctIndex": 2,
-    "explanation": "This lady has presented with a stroke at a young age. Such patients usually require an extensive workup to determine the underlying cause and prevent recurrence. Examination reveals a systolic murmur at the left upper sternal border with fixed splitting of the second heart sound (the splitting does not vary with respiration). These findings are characteristic of an atrial septal defect (ASD). ASDs are a known cause of paroxysmal embolism (from right to left) and hence are a recognised cause of cryptogenic strokes at a young age. Usually, small particles and air bubbles returning to the heart in the venous system are filtered out by the lungs, but in those with an ASD or patent foramen ovale, there is a chance they can be transmitted across the atrial septum into the left heart, resulting in systemic embolisation. All of the other answers are potential causes of premature stroke. This lady has no mentioned clinical features of infective endocarditis and this usually produces regurgitant valve lesions. Rheumatic fever is associated with mitral stenosis, but this causes a rumbling mid-diastolic murmur instead. An LV thrombus would not produce specific auscultation findings, but usually occurs in those with severe LV dysfunction, especially with apical akinesis from a prior myocardial infarction. Carotid artery atherosclerosis can be detected by auscultating a systolic bruit, which is not present here (carotid Doppler or magnetic resonance arteriography have a much better sensitivity). All patients who present with a stroke require an echocardiogram, which is the diagnostic test for an ASD.",
+    "explanation": "This lady has presented with a stroke at a young age. Such patients usually require an extensive workup to determine the underlying cause and prevent recurrence. Examination reveals a systolic murmur at the left upper sternal border with fixed splitting of the second heart sound (the splitting does not vary with respiration). These findings are characteristic of an atrial septal defect (ASD). ASDs are a known cause of paradoxical embolism (from right to left) and hence are a recognised cause of cryptogenic strokes at a young age. Usually, small particles and air bubbles returning to the heart in the venous system are filtered out by the lungs, but in those with an ASD or patent foramen ovale, there is a chance they can be transmitted across the atrial septum into the left heart, resulting in systemic embolisation. All of the other answers are potential causes of premature stroke. This lady has no mentioned clinical features of infective endocarditis and this usually produces regurgitant valve lesions. Rheumatic fever is associated with mitral stenosis, but this causes a rumbling mid-diastolic murmur instead. An LV thrombus would not produce specific auscultation findings, but usually occurs in those with severe LV dysfunction, especially with apical akinesis from a prior myocardial infarction. Carotid artery atherosclerosis can be detected by auscultating a systolic bruit, which is not present here (carotid Doppler or magnetic resonance arteriography have a much better sensitivity). All patients who present with a stroke require an echocardiogram, which is the diagnostic test for an ASD.",
     "lesionName": "Atrial septal defect",
     "heartSounds": [
       {
@@ -28891,7 +28891,7 @@
       }
     ],
     "image": "asdimagetrial",
-    "learningPoint": "Atrial septal defects are associated with paroxysmal (R to L) embolism and cryptogenic stroke.",
+    "learningPoint": "Atrial septal defects are associated with paradoxical (R to L) embolism and cryptogenic stroke.",
     "answered": false
   },
   {
