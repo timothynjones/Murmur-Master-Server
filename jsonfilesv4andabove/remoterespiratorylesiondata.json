@@ -12,7 +12,7 @@
         "image" : "normallungsoundsimage",
         "nonCircularImage" : false,
         "shortSummary" : "The physiological sounds made by the lungs",
-        "summary" : "Normal (vesicular) lung sounds are the physiological sounds that healthy lungs make during respiration. They are low-pitched and have a soft and rustling nature. The two phases are inspiration and expiration. Inspiration is longer, louder and slightly higher-pitched, while expiration is shorter, quieter and lower-pitched. There is no gap between the two phases and they are best heard over the peripheral precordium. Normal lung sounds do not rule out respiratory disease.",
+        "summary" : "Normal (vesicular) lung sounds are the physiological sounds that healthy lungs make during respiration. They are low-pitched and have a soft and rustling nature. The two phases are inspiration and expiration. Inspiration is longer, louder and slightly higher-pitched, while expiration is shorter, quieter and lower-pitched. There is no gap between the two phases and they are best heard over the peripheral lung fields. Normal lung sounds do not rule out respiratory disease.",
         "displayPhysiology" : false,
         "signs" : ["Vesicular sounds are low-pitched", "Inspiration followed by expiration with no gap", "Inspiration longer than expiration", "Bronchovesicular sounds (medium-pitched, with inspiration the same length as expiration) can sometimes be heard at the apices in health", "However, bronchial or bronchovesicular sounds heard in the mid zones or bases suggests consolidation and are not normal"],
         "lungCases" : [
@@ -1505,7 +1505,7 @@
         "causes" : [
             {
                 "name" : "Smoking",
-                "causes" : ["90% of patients with COPD smoke", "Results in airway inflammation/mucous hypersecretion", "Smoking also inhibits protective enzymes e.g. alpha-1 antitrypsin (emphysema)"]
+                "causes" : ["90% of patients with COPD smoke in developed countries", "Results in airway inflammation/mucous hypersecretion", "Smoking also inhibits protective enzymes e.g. alpha-1 antitrypsin (emphysema)"]
             },
             {
                 "name" : "Alpha-1 antitrypsin deficiency",
@@ -2151,7 +2151,7 @@
         "image" : "pulmonaryfibrosisimage",
         "nonCircularImage" : false,
         "shortSummary" : "Progressive thickening of the lung's interstitium",
-        "summary" : "Pulmonary fibrosis describes the progressive thickening and scarring of the lung's interstitium (connective tissue surrounding the alveoli and capillaries). It is the end result of many forms of interstitial lung disease (ILD). The thickened interstitium results in restrictive lung physiology, and ventilation/perfusion (V/Q) mismatch due to impaired gas exchange. The most common form if ILD is idiopathic pulmonary fibrosis (IPF), where fibrosis occurs without a clear trigger. IPF affects around 50-100 per 100,000 people and has a median life expectancy of 3-5 years. Other forms of ILD can be caused by a number of environmental exposures (such as drugs and organic or inorganic dusts) as well as connective tissue disease.",
+        "summary" : "Pulmonary fibrosis describes the progressive thickening and scarring of the lung's interstitium (connective tissue surrounding the alveoli and capillaries). It is the end result of many forms of interstitial lung disease (ILD). The thickened interstitium results in restrictive lung physiology, and ventilation/perfusion (V/Q) mismatch due to impaired gas exchange. The most common form of ILD is idiopathic pulmonary fibrosis (IPF), where fibrosis occurs without a clear trigger. IPF affects around 50-100 per 100,000 people and has a median life expectancy of 3-5 years. Other forms of ILD can be caused by a number of environmental exposures (such as drugs and organic or inorganic dusts) as well as connective tissue disease.",
         "causes" : [
             {
                 "name" : "Idiopathic pulmonary fibrosis (IPF)",
@@ -2780,7 +2780,7 @@
                 "valveSymptomDescription" : "Bronchiectasis causes airway neovascularisation (due to chronic hypoxia and inflammation) and these newer vessels are more fragile and prone to rupture. Persistent inflammation and destruction can also directly erode vessels, causing bleeding."
             }
         ],
-        "signs" : ["Clubbing", "Course, low-pitched, inspiratory crepitations (short, explosive sounds), which may be more pronounced during infective exacerbations", "Bilateral polyphonic wheeze", "Rhonchi (low-pitched snoring like sound)", "Cyanosis", "Cor pulmonale (ankle swelling, raised JVP, loud P2)"],
+        "signs" : ["Clubbing", "Coarse, low-pitched, inspiratory crepitations (short, explosive sounds), which may be more pronounced during infective exacerbations", "Bilateral polyphonic wheeze", "Rhonchi (low-pitched snoring like sound)", "Cyanosis", "Cor pulmonale (ankle swelling, raised JVP, loud P2)"],
         "lungCases" : [
             {
                 "orderedId" : 0,
@@ -3231,7 +3231,7 @@
             },
             {
                 "name" : "Aspiration pneumonia",
-                "causes" : ["Impaired swallow reflex: stroke, bulbar palsies, decreased consciousness (e.g. post-ictal)", "Physical: poorly placed NG tube", "Vomiting", "Bugs usually mixed, including anaerobes from the mouth flora", "Often right middle lobe"]
+                "causes" : ["Impaired swallow reflex: stroke, bulbar palsies, decreased consciousness (e.g. post-ictal)", "Physical: poorly placed NG tube", "Vomiting", "Bugs usually mixed, including anaerobes from the mouth flora", "Often right lower lobe"]
             }
         ],
         "displayPhysiology" : true,
@@ -4434,7 +4434,7 @@
                 ]
             }
         ],
-        "xrayFindings" : ["Usually at least 200 ml to be visible on AP CXR", "Initially blunting of the costophrenic angles", "Then dense opacity without lung markers and meniscus sign (higher at lateral edges than centre)", "Massive effusions (>1000 ml) cause mediastinal shifts to the contralateral side"],
+        "xrayFindings" : ["Usually at least 200 ml to be visible on PA erect CXR", "Initially blunting of the costophrenic angles", "Then dense opacity without lung markers and meniscus sign (higher at lateral edges than centre)", "Massive effusions (>1000 ml) cause mediastinal shifts to the contralateral side"],
         "ctFindings" : ["More sensitive (can see smaller effusions)", "Can assess for cause/malignancy (best once drained)"],
         "bloodTestFindings" : ["For comparison with pleural fluid sample", "Light's criteria - exudative if any of: pleural protein to serum protein > 0.5, pleural LDH to serum LDH > 0.6, pleural LDH > 0.66 of ULN serum LDH reference range"],
         "microbiologyFindings" : ["Pleural fluid aspirate can be sent for MCS and AFB/TB culture"],
@@ -4877,7 +4877,7 @@
                 "valveSymptomDescription" : "Pleural rubs are often associated with pleurisy/pleuritic chest pain (sharp, stabbing pain worse on inspiration, coughing or sneezing), due to the underlying driver of pleural inflammation."
             }
         ],
-        "signs" : ["Grating, scratching or creaking sound occurring as the the inflamed pleural layers slide over one another", "Sounds like 'walking on fresh snow' or 'leather rubbing against leather'", "Often biphasic (in both inspiration or expiration), but may be only heard in one phase of the respiratory cycle", "Usually localised to the area where the pleura is inflamed", "Does not clear with coughing", "Sound may disappear if pleural effusion develops (as friction reduced and pleural layers separated from one another)", "May be associated with crepitations if underlying pneumonic process"],
+        "signs" : ["Grating, scratching or creaking sound occurring as the inflamed pleural layers slide over one another", "Sounds like 'walking on fresh snow' or 'leather rubbing against leather'", "Often biphasic (in both inspiration or expiration), but may be only heard in one phase of the respiratory cycle", "Usually localised to the area where the pleura is inflamed", "Does not clear with coughing", "Sound may disappear if pleural effusion develops (as friction reduced and pleural layers separated from one another)", "May be associated with crepitations if underlying pneumonic process"],
         "lungCases" : [
             {
                 "orderedId" : 0,

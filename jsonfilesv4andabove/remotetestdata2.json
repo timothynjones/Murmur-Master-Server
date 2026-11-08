@@ -4164,7 +4164,7 @@
       "FEV1 60% predicted, FVC 90% predicted, FEV1/FVC 0.6, \u2193 transfer factor"
     ],
     "correctIndex": 4,
-    "explanation": "This lady has presented with a history of a chronic cough, on the background of a heavy smoking history. Examination reveals a bilateral polyphonic wheeze with a prolonged expiratory phase and globally reduced air entry. The most likely diagnosis is COPD, which causes irreversible airflow obstruction and parenchymal destruction. COPD causes a fixed obstructive defect on spirometry: the forced expiratory volume in 1 second (FEV1) is reduced disproportionately to the forced vital capacity (FVC), hence resulting in a ratio of \u22640.7. Alveolar membrane destruction (in emphysema) decreases the transfer factor, which is a measurement the diffusion capacity of the lungs.",
+    "explanation": "This lady has presented with a history of a chronic cough, on the background of a heavy smoking history. Examination reveals a bilateral polyphonic wheeze with a prolonged expiratory phase and globally reduced air entry. The most likely diagnosis is COPD, which causes irreversible airflow obstruction and parenchymal destruction. COPD causes a fixed obstructive defect on spirometry: the forced expiratory volume in 1 second (FEV1) is reduced disproportionately to the forced vital capacity (FVC), hence resulting in a ratio of \u003C0.7. Alveolar membrane destruction (in emphysema) decreases the transfer factor, which is a measurement the diffusion capacity of the lungs.",
     "lesionName": "COPD",
     "lungSounds": [
       {
