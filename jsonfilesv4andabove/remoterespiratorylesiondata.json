@@ -2707,7 +2707,7 @@
         "spirometryFindings" : ["Restrictive picture (decreased FVC but normal/increased FEV1/FVC ratio > 0.7)", "Decreased total lung capacity", "Decreased transfer factor"],
         "medicalManagement" : ["Best supportive care (smoking cessation, pulmonary rehab influenza/pneumococcal vaccines)", "Treat GORD", "Novel antifibrotic therapies (e.g. nintedanib/pirfenidone) for IPF", "Treatment of specific causes (e.g. cease exposure to dusts/drugs, steroids)"],
         "complications" : ["Acute exacerbations/infections", "Type I respiratory failure", "Cor pulmonale", "Polycythaemia", "Lung cancer (7x risk, independent of smoking)"],
-        "clinicalPearls" : ["Upper lobe predominance: ESCHART (extrinsic allergic alveolitis, sarcoidosis, coal workers pneumoconiosis, histiocytosis X, ankylosing spondylitis, radiotherapy, TB/ABPA", "Lower lobe predominance: RASCO (rheumatoid arthritis, asbestosis, scleroderma, Cryotogenic fibrosing alveolitis (aka IPF), Other e.g. drugs (methotrexate, nitrofurantoin, amiodarone, bleomycin)"],
+        "clinicalPearls" : ["Upper lobe predominance: ESCHART (extrinsic allergic alveolitis, sarcoidosis, coal workers pneumoconiosis, histiocytosis X, ankylosing spondylitis, radiotherapy, TB/ABPA", "Lower lobe predominance: RASCO (rheumatoid arthritis, asbestosis, scleroderma, Cryptogenic fibrosing alveolitis (aka IPF), Other e.g. drugs (methotrexate, nitrofurantoin, amiodarone, bleomycin)"],
         "references" : [
             {
                 "text" : "Annals of Thoracic Medicine",
@@ -3223,7 +3223,7 @@
         "causes" : [
             {
                 "name" : "Community-acquired pneumonia (CAP)",
-                "causes" : ["Presents before or within 48 h of hospital attendance", "Typical bacteria: S. pneumoniae, H. influenzae, S. aureus, M. catarrhalis", "Atypical bacteria: M. pneumoniae, L. pneumophilia, Chlamydophila species", "Viruses: COVID-19, influenza/parainfluenza, RSV", "Fungal: PCP pneumonia"]
+                "causes" : ["Presents before or within 48 h of hospital attendance", "Typical bacteria: S. pneumoniae, H. influenzae, S. aureus, M. catarrhalis", "Atypical bacteria: M. pneumoniae, L. pneumophila, Chlamydophila species", "Viruses: COVID-19, influenza/parainfluenza, RSV", "Fungal: PCP pneumonia"]
             },
             {
                 "name" : "Hospital-acquired pneumonia (HAP)",
